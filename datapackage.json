@@ -19,7 +19,7 @@
   ],
   "resources": [
     { 
-      "path": "population-growth-rate.csv",
+      "path": "data/population-growth-rate.csv",
       "schema": {
         "fields": [
           {
