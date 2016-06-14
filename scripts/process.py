@@ -35,7 +35,10 @@ def get_data():
         row = []
         for n in range(2, num_cols):
             if not n == 3:  # skips notes column
-                value = sheet.cell_value(i,n)
+                try:
+                    value = sheet.cell_value(i,n).replace('\'', '')
+                except:
+                    value = sheet.cell_value(i,n)
                 if n < 5:
                     row.append(value)
                 else:
