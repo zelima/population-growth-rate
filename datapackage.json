@@ -1,0 +1,45 @@
+{
+  "name": "population-growth-rate",
+  "title": "Population Growth Rate",
+  "descriptions": "Average exponential rate of growth of the population over a given period.",
+  "licenses" : [
+    {
+      "type": "odc-pddl",
+      "url": "http://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "keywords": [ "population", "growth rate", "pgr", "esa", "wpp"],
+  "version": "0.1.0",
+  "last_updated": "2016-06-14",
+  "sources": [
+    {
+      "name": "World Population Prospects",
+      "web": "https://esa.un.org/unpd/wpp/"
+    }
+  ],
+  "resources": [
+    { 
+      "path": "population-growth-rate.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Region",
+            "type": "string"
+          },
+          {
+            "name": "Country code",
+            "type": "number"
+          },
+          {
+            "name": "Period",
+            "type": "string"
+          },
+          {
+            "name": "Growth rate",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ]
+}
