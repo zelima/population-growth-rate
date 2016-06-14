@@ -1,0 +1,3550 @@
+Region,Country code,Period,Growth rate
+WORLD,900.0,1950-1955,1.766
+WORLD,900.0,1955-1960,1.802
+WORLD,900.0,1960-1965,1.92
+WORLD,900.0,1965-1970,2.057
+WORLD,900.0,1970-1975,1.959
+WORLD,900.0,1975-1980,1.781
+WORLD,900.0,1980-1985,1.779
+WORLD,900.0,1985-1990,1.801
+WORLD,900.0,1990-1995,1.542
+WORLD,900.0,1995-2000,1.321
+WORLD,900.0,2000-2005,1.243
+WORLD,900.0,2005-2010,1.22
+WORLD,900.0,2010-2015,1.176
+More developed regions,901.0,1950-1955,1.194
+More developed regions,901.0,1955-1960,1.169
+More developed regions,901.0,1960-1965,1.079
+More developed regions,901.0,1965-1970,0.852
+More developed regions,901.0,1970-1975,0.771
+More developed regions,901.0,1975-1980,0.649
+More developed regions,901.0,1980-1985,0.579
+More developed regions,901.0,1985-1990,0.547
+More developed regions,901.0,1990-1995,0.437
+More developed regions,901.0,1995-2000,0.323
+More developed regions,901.0,2000-2005,0.335
+More developed regions,901.0,2005-2010,0.401
+More developed regions,901.0,2010-2015,0.289
+Less developed regions,902.0,1950-1955,2.033
+Less developed regions,902.0,1955-1960,2.083
+Less developed regions,902.0,1960-1965,2.275
+Less developed regions,902.0,1965-1970,2.531
+Less developed regions,902.0,1970-1975,2.388
+Less developed regions,902.0,1975-1980,2.16
+Less developed regions,902.0,1980-1985,2.15
+Less developed regions,902.0,1985-1990,2.159
+Less developed regions,902.0,1990-1995,1.835
+Less developed regions,902.0,1995-2000,1.568
+Less developed regions,902.0,2000-2005,1.456
+Less developed regions,902.0,2005-2010,1.402
+Less developed regions,902.0,2010-2015,1.363
+Least developed countries,941.0,1950-1955,1.951
+Least developed countries,941.0,1955-1960,2.217
+Least developed countries,941.0,1960-1965,2.394
+Least developed countries,941.0,1965-1970,2.563
+Least developed countries,941.0,1970-1975,2.347
+Least developed countries,941.0,1975-1980,2.48
+Least developed countries,941.0,1980-1985,2.546
+Least developed countries,941.0,1985-1990,2.66
+Least developed countries,941.0,1990-1995,2.748
+Least developed countries,941.0,1995-2000,2.539
+Least developed countries,941.0,2000-2005,2.499
+Least developed countries,941.0,2005-2010,2.364
+Least developed countries,941.0,2010-2015,2.377
+"Less developed regions, excluding least developed countries",934.0,1950-1955,2.043
+"Less developed regions, excluding least developed countries",934.0,1955-1960,2.066
+"Less developed regions, excluding least developed countries",934.0,1960-1965,2.26
+"Less developed regions, excluding least developed countries",934.0,1965-1970,2.527
+"Less developed regions, excluding least developed countries",934.0,1970-1975,2.394
+"Less developed regions, excluding least developed countries",934.0,1975-1980,2.118
+"Less developed regions, excluding least developed countries",934.0,1980-1985,2.097
+"Less developed regions, excluding least developed countries",934.0,1985-1990,2.09
+"Less developed regions, excluding least developed countries",934.0,1990-1995,1.704
+"Less developed regions, excluding least developed countries",934.0,1995-2000,1.422
+"Less developed regions, excluding least developed countries",934.0,2000-2005,1.289
+"Less developed regions, excluding least developed countries",934.0,2005-2010,1.239
+"Less developed regions, excluding least developed countries",934.0,2010-2015,1.181
+"Less developed regions, excluding China",948.0,1950-1955,2.079
+"Less developed regions, excluding China",948.0,1955-1960,2.347
+"Less developed regions, excluding China",948.0,1960-1965,2.453
+"Less developed regions, excluding China",948.0,1965-1970,2.459
+"Less developed regions, excluding China",948.0,1970-1975,2.445
+"Less developed regions, excluding China",948.0,1975-1980,2.424
+"Less developed regions, excluding China",948.0,1980-1985,2.43
+"Less developed regions, excluding China",948.0,1985-1990,2.29
+"Less developed regions, excluding China",948.0,1990-1995,2.071
+"Less developed regions, excluding China",948.0,1995-2000,1.895
+"Less developed regions, excluding China",948.0,2000-2005,1.769
+"Less developed regions, excluding China",948.0,2005-2010,1.686
+"Less developed regions, excluding China",948.0,2010-2015,1.625
+High-income countries,1503.0,1950-1955,1.295
+High-income countries,1503.0,1955-1960,1.317
+High-income countries,1503.0,1960-1965,1.233
+High-income countries,1503.0,1965-1970,0.994
+High-income countries,1503.0,1970-1975,0.931
+High-income countries,1503.0,1975-1980,0.837
+High-income countries,1503.0,1980-1985,0.79
+High-income countries,1503.0,1985-1990,0.749
+High-income countries,1503.0,1990-1995,0.672
+High-income countries,1503.0,1995-2000,0.584
+High-income countries,1503.0,2000-2005,0.594
+High-income countries,1503.0,2005-2010,0.691
+High-income countries,1503.0,2010-2015,0.518
+Middle-income countries,1517.0,1950-1955,2.006
+Middle-income countries,1517.0,1955-1960,2.008
+Middle-income countries,1517.0,1960-1965,2.209
+Middle-income countries,1517.0,1965-1970,2.482
+Middle-income countries,1517.0,1970-1975,2.33
+Middle-income countries,1517.0,1975-1980,2.094
+Middle-income countries,1517.0,1980-1985,2.077
+Middle-income countries,1517.0,1985-1990,2.075
+Middle-income countries,1517.0,1990-1995,1.698
+Middle-income countries,1517.0,1995-2000,1.41
+Middle-income countries,1517.0,2000-2005,1.28
+Middle-income countries,1517.0,2005-2010,1.208
+Middle-income countries,1517.0,2010-2015,1.177
+Upper-middle-income countries,1502.0,1950-1955,2.107
+Upper-middle-income countries,1502.0,1955-1960,1.864
+Upper-middle-income countries,1502.0,1960-1965,2.118
+Upper-middle-income countries,1502.0,1965-1970,2.619
+Upper-middle-income countries,1502.0,1970-1975,2.315
+Upper-middle-income countries,1502.0,1975-1980,1.807
+Upper-middle-income countries,1502.0,1980-1985,1.757
+Upper-middle-income countries,1502.0,1985-1990,1.896
+Upper-middle-income countries,1502.0,1990-1995,1.357
+Upper-middle-income countries,1502.0,1995-2000,0.967
+Upper-middle-income countries,1502.0,2000-2005,0.85
+Upper-middle-income countries,1502.0,2005-2010,0.8
+Upper-middle-income countries,1502.0,2010-2015,0.819
+Lower-middle-income countries,1501.0,1950-1955,1.898
+Lower-middle-income countries,1501.0,1955-1960,2.162
+Lower-middle-income countries,1501.0,1960-1965,2.306
+Lower-middle-income countries,1501.0,1965-1970,2.336
+Lower-middle-income countries,1501.0,1970-1975,2.345
+Lower-middle-income countries,1501.0,1975-1980,2.397
+Lower-middle-income countries,1501.0,1980-1985,2.405
+Lower-middle-income countries,1501.0,1985-1990,2.253
+Lower-middle-income countries,1501.0,1990-1995,2.029
+Lower-middle-income countries,1501.0,1995-2000,1.826
+Lower-middle-income countries,1501.0,2000-2005,1.667
+Lower-middle-income countries,1501.0,2005-2010,1.561
+Lower-middle-income countries,1501.0,2010-2015,1.476
+Low-income countries,1500.0,1950-1955,1.675
+Low-income countries,1500.0,1955-1960,2.108
+Low-income countries,1500.0,1960-1965,2.225
+Low-income countries,1500.0,1965-1970,2.451
+Low-income countries,1500.0,1970-1975,2.461
+Low-income countries,1500.0,1975-1980,2.275
+Low-income countries,1500.0,1980-1985,2.366
+Low-income countries,1500.0,1985-1990,2.642
+Low-income countries,1500.0,1990-1995,2.831
+Low-income countries,1500.0,1995-2000,2.691
+Low-income countries,1500.0,2000-2005,2.725
+Low-income countries,1500.0,2005-2010,2.686
+Low-income countries,1500.0,2010-2015,2.691
+Sub-Saharan Africa,947.0,1950-1955,1.965
+Sub-Saharan Africa,947.0,1955-1960,2.191
+Sub-Saharan Africa,947.0,1960-1965,2.385
+Sub-Saharan Africa,947.0,1965-1970,2.526
+Sub-Saharan Africa,947.0,1970-1975,2.655
+Sub-Saharan Africa,947.0,1975-1980,2.782
+Sub-Saharan Africa,947.0,1980-1985,2.811
+Sub-Saharan Africa,947.0,1985-1990,2.811
+Sub-Saharan Africa,947.0,1990-1995,2.716
+Sub-Saharan Africa,947.0,1995-2000,2.632
+Sub-Saharan Africa,947.0,2000-2005,2.655
+Sub-Saharan Africa,947.0,2005-2010,2.726
+Sub-Saharan Africa,947.0,2010-2015,2.709
+AFRICA,903.0,1950-1955,2.078
+AFRICA,903.0,1955-1960,2.298
+AFRICA,903.0,1960-1965,2.449
+AFRICA,903.0,1965-1970,2.541
+AFRICA,903.0,1970-1975,2.605
+AFRICA,903.0,1975-1980,2.753
+AFRICA,903.0,1980-1985,2.809
+AFRICA,903.0,1985-1990,2.766
+AFRICA,903.0,1990-1995,2.631
+AFRICA,903.0,1995-2000,2.444
+AFRICA,903.0,2000-2005,2.452
+AFRICA,903.0,2005-2010,2.526
+AFRICA,903.0,2010-2015,2.551
+Eastern Africa,910.0,1950-1955,2.208
+Eastern Africa,910.0,1955-1960,2.41
+Eastern Africa,910.0,1960-1965,2.62
+Eastern Africa,910.0,1965-1970,2.779
+Eastern Africa,910.0,1970-1975,2.852
+Eastern Africa,910.0,1975-1980,2.938
+Eastern Africa,910.0,1980-1985,2.925
+Eastern Africa,910.0,1985-1990,2.986
+Eastern Africa,910.0,1990-1995,2.561
+Eastern Africa,910.0,1995-2000,2.816
+Eastern Africa,910.0,2000-2005,2.752
+Eastern Africa,910.0,2005-2010,2.822
+Eastern Africa,910.0,2010-2015,2.812
+Burundi,108.0,1950-1955,1.843
+Burundi,108.0,1955-1960,1.919
+Burundi,108.0,1960-1965,1.995
+Burundi,108.0,1965-1970,2.316
+Burundi,108.0,1970-1975,1.233
+Burundi,108.0,1975-1980,2.307
+Burundi,108.0,1980-1985,2.916
+Burundi,108.0,1985-1990,3.237
+Burundi,108.0,1990-1995,2.114
+Burundi,108.0,1995-2000,1.625
+Burundi,108.0,2000-2005,3.182
+Burundi,108.0,2005-2010,3.52
+Burundi,108.0,2010-2015,3.337
+Comoros,174.0,1950-1955,2.043
+Comoros,174.0,1955-1960,1.724
+Comoros,174.0,1960-1965,1.694
+Comoros,174.0,1965-1970,2.125
+Comoros,174.0,1970-1975,2.302
+Comoros,174.0,1975-1980,3.708
+Comoros,174.0,1980-1985,2.96
+Comoros,174.0,1985-1990,2.977
+Comoros,174.0,1990-1995,2.885
+Comoros,174.0,1995-2000,2.656
+Comoros,174.0,2000-2005,2.436
+Comoros,174.0,2005-2010,2.434
+Comoros,174.0,2010-2015,2.418
+Djibouti,262.0,1950-1955,2.311
+Djibouti,262.0,1955-1960,3.676
+Djibouti,262.0,1960-1965,6.363
+Djibouti,262.0,1965-1970,6.57
+Djibouti,262.0,1970-1975,6.787
+Djibouti,262.0,1975-1980,9.415
+Djibouti,262.0,1980-1985,3.305
+Djibouti,262.0,1985-1990,6.577
+Djibouti,262.0,1990-1995,2.331
+Djibouti,262.0,1995-2000,1.779
+Djibouti,262.0,2000-2005,1.489
+Djibouti,262.0,2005-2010,1.303
+Djibouti,262.0,2010-2015,1.328
+Eritrea,232.0,1950-1955,1.947
+Eritrea,232.0,1955-1960,2.233
+Eritrea,232.0,1960-1965,2.426
+Eritrea,232.0,1965-1970,2.552
+Eritrea,232.0,1970-1975,2.736
+Eritrea,232.0,1975-1980,2.822
+Eritrea,232.0,1980-1985,2.905
+Eritrea,232.0,1985-1990,2.599
+Eritrea,232.0,1990-1995,0.159
+Eritrea,232.0,1995-2000,2.218
+Eritrea,232.0,2000-2005,3.405
+Eritrea,232.0,2005-2010,2.247
+Eritrea,232.0,2010-2015,2.173
+Ethiopia,231.0,1950-1955,1.913
+Ethiopia,231.0,1955-1960,2.096
+Ethiopia,231.0,1960-1965,2.431
+Ethiopia,231.0,1965-1970,2.55
+Ethiopia,231.0,1970-1975,2.729
+Ethiopia,231.0,1975-1980,1.577
+Ethiopia,231.0,1980-1985,2.918
+Ethiopia,231.0,1985-1990,3.286
+Ethiopia,231.0,1990-1995,3.496
+Ethiopia,231.0,1995-2000,2.983
+Ethiopia,231.0,2000-2005,2.847
+Ethiopia,231.0,2005-2010,2.673
+Ethiopia,231.0,2010-2015,2.534
+Kenya,404.0,1950-1955,2.771
+Kenya,404.0,1955-1960,2.99
+Kenya,404.0,1960-1965,3.185
+Kenya,404.0,1965-1970,3.376
+Kenya,404.0,1970-1975,3.622
+Kenya,404.0,1975-1980,3.75
+Kenya,404.0,1980-1985,3.789
+Kenya,404.0,1985-1990,3.522
+Kenya,404.0,1990-1995,3.097
+Kenya,404.0,1995-2000,2.531
+Kenya,404.0,2000-2005,2.583
+Kenya,404.0,2005-2010,2.636
+Kenya,404.0,2010-2015,2.654
+Madagascar,450.0,1950-1955,2.135
+Madagascar,450.0,1955-1960,2.308
+Madagascar,450.0,1960-1965,2.468
+Madagascar,450.0,1965-1970,2.619
+Madagascar,450.0,1970-1975,2.83
+Madagascar,450.0,1975-1980,2.874
+Madagascar,450.0,1980-1985,2.641
+Madagascar,450.0,1985-1990,2.913
+Madagascar,450.0,1990-1995,3.057
+Madagascar,450.0,1995-2000,3.147
+Madagascar,450.0,2000-2005,2.997
+Madagascar,450.0,2005-2010,2.839
+Madagascar,450.0,2010-2015,2.79
+Malawi,454.0,1950-1955,1.925
+Malawi,454.0,1955-1960,2.134
+Malawi,454.0,1960-1965,2.295
+Malawi,454.0,1965-1970,2.52
+Malawi,454.0,1970-1975,2.79
+Malawi,454.0,1975-1980,3.045
+Malawi,454.0,1980-1985,3.125
+Malawi,454.0,1985-1990,5.336
+Malawi,454.0,1990-1995,0.861
+Malawi,454.0,1995-2000,2.612
+Malawi,454.0,2000-2005,2.601
+Malawi,454.0,2005-2010,2.944
+Malawi,454.0,2010-2015,3.064
+Mauritius,480.0,1950-1955,2.915
+Mauritius,480.0,1955-1960,2.91
+Mauritius,480.0,1960-1965,2.643
+Mauritius,480.0,1965-1970,1.854
+Mauritius,480.0,1970-1975,1.531
+Mauritius,480.0,1975-1980,1.59
+Mauritius,480.0,1980-1985,1.004
+Mauritius,480.0,1985-1990,0.774
+Mauritius,480.0,1990-1995,1.334
+Mauritius,480.0,1995-2000,0.976
+Mauritius,480.0,2000-2005,0.613
+Mauritius,480.0,2005-2010,0.42
+Mauritius,480.0,2010-2015,0.401
+Mayotte,175.0,1950-1955,4.524
+Mayotte,175.0,1955-1960,4.705
+Mayotte,175.0,1960-1965,4.794
+Mayotte,175.0,1965-1970,3.829
+Mayotte,175.0,1970-1975,4.148
+Mayotte,175.0,1975-1980,3.849
+Mayotte,175.0,1980-1985,5.366
+Mayotte,175.0,1985-1990,5.469
+Mayotte,175.0,1990-1995,5.242
+Mayotte,175.0,1995-2000,3.983
+Mayotte,175.0,2000-2005,3.391
+Mayotte,175.0,2005-2010,3.173
+Mayotte,175.0,2010-2015,2.794
+Mozambique,508.0,1950-1955,1.58
+Mozambique,508.0,1955-1960,1.847
+Mozambique,508.0,1960-1965,2.052
+Mozambique,508.0,1965-1970,2.187
+Mozambique,508.0,1970-1975,2.327
+Mozambique,508.0,1975-1980,2.746
+Mozambique,508.0,1980-1985,1.865
+Mozambique,508.0,1985-1990,0.406
+Mozambique,508.0,1990-1995,3.48
+Mozambique,508.0,1995-2000,2.756
+Mozambique,508.0,2000-2005,2.912
+Mozambique,508.0,2005-2010,2.816
+Mozambique,508.0,2010-2015,2.801
+Réunion,638.0,1950-1955,3.234
+Réunion,638.0,1955-1960,2.812
+Réunion,638.0,1960-1965,3.039
+Réunion,638.0,1965-1970,3.35
+Réunion,638.0,1970-1975,0.961
+Réunion,638.0,1975-1980,0.985
+Réunion,638.0,1980-1985,1.853
+Réunion,638.0,1985-1990,1.776
+Réunion,638.0,1990-1995,1.963
+Réunion,638.0,1995-2000,1.793
+Réunion,638.0,2000-2005,1.437
+Réunion,638.0,2005-2010,0.96
+Réunion,638.0,2010-2015,0.725
+Rwanda,646.0,1950-1955,2.886
+Rwanda,646.0,1955-1960,2.994
+Rwanda,646.0,1960-1965,1.944
+Rwanda,646.0,1965-1970,2.992
+Rwanda,646.0,1970-1975,2.986
+Rwanda,646.0,1975-1980,3.299
+Rwanda,646.0,1980-1985,3.48
+Rwanda,646.0,1985-1990,3.422
+Rwanda,646.0,1990-1995,-4.105
+Rwanda,646.0,1995-2000,6.101
+Rwanda,646.0,2000-2005,2.319
+Rwanda,646.0,2005-2010,2.668
+Rwanda,646.0,2010-2015,2.406
+Seychelles,690.0,1950-1955,1.373
+Seychelles,690.0,1955-1960,1.31
+Seychelles,690.0,1960-1965,2.373
+Seychelles,690.0,1965-1970,2.26
+Seychelles,690.0,1970-1975,2.585
+Seychelles,690.0,1975-1980,2.132
+Seychelles,690.0,1980-1985,1.043
+Seychelles,690.0,1985-1990,0.224
+Seychelles,690.0,1990-1995,1.651
+Seychelles,690.0,1995-2000,1.128
+Seychelles,690.0,2000-2005,1.789
+Seychelles,690.0,2005-2010,0.954
+Seychelles,690.0,2010-2015,0.715
+Somalia,706.0,1950-1955,1.915
+Somalia,706.0,1955-1960,2.02
+Somalia,706.0,1960-1965,2.152
+Somalia,706.0,1965-1970,2.31
+Somalia,706.0,1970-1975,2.381
+Somalia,706.0,1975-1980,9.01
+Somalia,706.0,1980-1985,-0.07
+Somalia,706.0,1985-1990,0.818
+Somalia,706.0,1990-1995,0.078
+Somalia,706.0,1995-2000,3.032
+Somalia,706.0,2000-2005,2.733
+Somalia,706.0,2005-2010,2.474
+Somalia,706.0,2010-2015,2.37
+South Sudan,728.0,1950-1955,1.04
+South Sudan,728.0,1955-1960,1.651
+South Sudan,728.0,1960-1965,1.987
+South Sudan,728.0,1965-1970,2.221
+South Sudan,728.0,1970-1975,2.425
+South Sudan,728.0,1975-1980,2.653
+South Sudan,728.0,1980-1985,2.937
+South Sudan,728.0,1985-1990,1.133
+South Sudan,728.0,1990-1995,-1.104
+South Sudan,728.0,1995-2000,4.099
+South Sudan,728.0,2000-2005,3.816
+South Sudan,728.0,2005-2010,4.327
+South Sudan,728.0,2010-2015,4.092
+Uganda,800.0,1950-1955,2.683
+Uganda,800.0,1955-1960,2.809
+Uganda,800.0,1960-1965,3.321
+Uganda,800.0,1965-1970,3.287
+Uganda,800.0,1970-1975,2.729
+Uganda,800.0,1975-1980,2.95
+Uganda,800.0,1980-1985,3.072
+Uganda,800.0,1985-1990,3.448
+Uganda,800.0,1990-1995,3.212
+Uganda,800.0,1995-2000,3.035
+Uganda,800.0,2000-2005,3.316
+Uganda,800.0,2005-2010,3.346
+Uganda,800.0,2010-2015,3.267
+United Republic of Tanzania,834.0,1950-1955,2.667
+United Republic of Tanzania,834.0,1955-1960,2.84
+United Republic of Tanzania,834.0,1960-1965,2.963
+United Republic of Tanzania,834.0,1965-1970,3.046
+United Republic of Tanzania,834.0,1970-1975,3.218
+United Republic of Tanzania,834.0,1975-1980,3.127
+United Republic of Tanzania,834.0,1980-1985,3.122
+United Republic of Tanzania,834.0,1985-1990,3.064
+United Republic of Tanzania,834.0,1990-1995,3.219
+United Republic of Tanzania,834.0,1995-2000,2.563
+United Republic of Tanzania,834.0,2000-2005,2.783
+United Republic of Tanzania,834.0,2005-2010,3.115
+United Republic of Tanzania,834.0,2010-2015,3.163
+Zambia,894.0,1950-1955,2.64
+Zambia,894.0,1955-1960,2.855
+Zambia,894.0,1960-1965,3.093
+Zambia,894.0,1965-1970,3.238
+Zambia,894.0,1970-1975,3.489
+Zambia,894.0,1975-1980,3.478
+Zambia,894.0,1980-1985,3.369
+Zambia,894.0,1985-1990,2.976
+Zambia,894.0,1990-1995,2.557
+Zambia,894.0,1995-2000,2.689
+Zambia,894.0,2000-2005,2.581
+Zambia,894.0,2005-2010,2.892
+Zambia,894.0,2010-2015,3.052
+Zimbabwe,716.0,1950-1955,3.077
+Zimbabwe,716.0,1955-1960,3.162
+Zimbabwe,716.0,1960-1965,3.285
+Zimbabwe,716.0,1965-1970,3.265
+Zimbabwe,716.0,1970-1975,3.397
+Zimbabwe,716.0,1975-1980,3.333
+Zimbabwe,716.0,1980-1985,3.909
+Zimbabwe,716.0,1985-1990,3.362
+Zimbabwe,716.0,1990-1995,2.164
+Zimbabwe,716.0,1995-2000,1.352
+Zimbabwe,716.0,2000-2005,0.76
+Zimbabwe,716.0,2005-2010,1.469
+Zimbabwe,716.0,2010-2015,2.205
+Middle Africa,911.0,1950-1955,1.887
+Middle Africa,911.0,1955-1960,2.094
+Middle Africa,911.0,1960-1965,2.281
+Middle Africa,911.0,1965-1970,2.466
+Middle Africa,911.0,1970-1975,2.543
+Middle Africa,911.0,1975-1980,2.718
+Middle Africa,911.0,1980-1985,2.814
+Middle Africa,911.0,1985-1990,2.95
+Middle Africa,911.0,1990-1995,3.365
+Middle Africa,911.0,1995-2000,2.724
+Middle Africa,911.0,2000-2005,3.044
+Middle Africa,911.0,2005-2010,3.088
+Middle Africa,911.0,2010-2015,3.029
+Angola,24.0,1950-1955,1.98
+Angola,24.0,1955-1960,1.838
+Angola,24.0,1960-1965,1.792
+Angola,24.0,1965-1970,1.778
+Angola,24.0,1970-1975,2.408
+Angola,24.0,1975-1980,2.889
+Angola,24.0,1980-1985,3.424
+Angola,24.0,1985-1990,2.654
+Angola,24.0,1990-1995,3.175
+Angola,24.0,1995-2000,2.875
+Angola,24.0,2000-2005,3.471
+Angola,24.0,2005-2010,3.388
+Angola,24.0,2010-2015,3.296
+Cameroon,120.0,1950-1955,1.745
+Cameroon,120.0,1955-1960,1.907
+Cameroon,120.0,1960-1965,2.21
+Cameroon,120.0,1965-1970,2.459
+Cameroon,120.0,1970-1975,2.676
+Cameroon,120.0,1975-1980,2.865
+Cameroon,120.0,1980-1985,3.007
+Cameroon,120.0,1985-1990,3.015
+Cameroon,120.0,1990-1995,2.865
+Cameroon,120.0,1995-2000,2.681
+Cameroon,120.0,2000-2005,2.587
+Cameroon,120.0,2005-2010,2.549
+Cameroon,120.0,2010-2015,2.51
+Central African Republic,140.0,1950-1955,1.069
+Central African Republic,140.0,1955-1960,1.434
+Central African Republic,140.0,1960-1965,1.845
+Central African Republic,140.0,1965-1970,2.071
+Central African Republic,140.0,1970-1975,1.964
+Central African Republic,140.0,1975-1980,2.396
+Central African Republic,140.0,1980-1985,2.888
+Central African Republic,140.0,1985-1990,2.233
+Central African Republic,140.0,1990-1995,2.541
+Central African Republic,140.0,1995-2000,2.212
+Central African Republic,140.0,2000-2005,1.695
+Central African Republic,140.0,2005-2010,1.833
+Central African Republic,140.0,2010-2015,1.95
+Chad,148.0,1950-1955,1.785
+Chad,148.0,1955-1960,1.86
+Chad,148.0,1960-1965,1.955
+Chad,148.0,1965-1970,1.922
+Chad,148.0,1970-1975,2.299
+Chad,148.0,1975-1980,1.973
+Chad,148.0,1980-1985,2.418
+Chad,148.0,1985-1990,3.139
+Chad,148.0,1990-1995,3.228
+Chad,148.0,1995-2000,3.506
+Chad,148.0,2000-2005,3.758
+Chad,148.0,2005-2010,3.338
+Chad,148.0,2010-2015,3.31
+Congo,178.0,1950-1955,2.137
+Congo,178.0,1955-1960,2.403
+Congo,178.0,1960-1965,2.662
+Congo,178.0,1965-1970,2.848
+Congo,178.0,1970-1975,3.068
+Congo,178.0,1975-1980,2.927
+Congo,178.0,1980-1985,2.908
+Congo,178.0,1985-1990,2.714
+Congo,178.0,1990-1995,2.626
+Congo,178.0,1995-2000,2.666
+Congo,178.0,2000-2005,2.385
+Congo,178.0,2005-2010,2.981
+Congo,178.0,2010-2015,2.556
+Democratic Republic of the Congo,180.0,1950-1955,2.078
+Democratic Republic of the Congo,180.0,1955-1960,2.41
+Democratic Republic of the Congo,180.0,1960-1965,2.605
+Democratic Republic of the Congo,180.0,1965-1970,2.83
+Democratic Republic of the Congo,180.0,1970-1975,2.7
+Democratic Republic of the Congo,180.0,1975-1980,2.81
+Democratic Republic of the Congo,180.0,1980-1985,2.579
+Democratic Republic of the Congo,180.0,1985-1990,3.071
+Democratic Republic of the Congo,180.0,1990-1995,3.755
+Democratic Republic of the Congo,180.0,1995-2000,2.604
+Democratic Republic of the Congo,180.0,2000-2005,3.095
+Democratic Republic of the Congo,180.0,2005-2010,3.236
+Democratic Republic of the Congo,180.0,2010-2015,3.171
+Equatorial Guinea,226.0,1950-1955,1.049
+Equatorial Guinea,226.0,1955-1960,1.18
+Equatorial Guinea,226.0,1960-1965,1.328
+Equatorial Guinea,226.0,1965-1970,1.534
+Equatorial Guinea,226.0,1970-1975,-3.994
+Equatorial Guinea,226.0,1975-1980,-1.538
+Equatorial Guinea,226.0,1980-1985,7.086
+Equatorial Guinea,226.0,1985-1990,3.65
+Equatorial Guinea,226.0,1990-1995,3.447
+Equatorial Guinea,226.0,1995-2000,3.381
+Equatorial Guinea,226.0,2000-2005,3.291
+Equatorial Guinea,226.0,2005-2010,3.043
+Equatorial Guinea,226.0,2010-2015,2.963
+Gabon,266.0,1950-1955,0.387
+Gabon,266.0,1955-1960,0.678
+Gabon,266.0,1960-1965,1.292
+Gabon,266.0,1965-1970,2.054
+Gabon,266.0,1970-1975,1.924
+Gabon,266.0,1975-1980,2.307
+Gabon,266.0,1980-1985,2.593
+Gabon,266.0,1985-1990,2.746
+Gabon,266.0,1990-1995,2.636
+Gabon,266.0,1995-2000,2.507
+Gabon,266.0,2000-2005,2.244
+Gabon,266.0,2005-2010,2.251
+Gabon,266.0,2010-2015,2.247
+Sao Tome and Principe,678.0,1950-1955,-0.41
+Sao Tome and Principe,678.0,1955-1960,1.78
+Sao Tome and Principe,678.0,1960-1965,0.168
+Sao Tome and Principe,678.0,1965-1970,2.724
+Sao Tome and Principe,678.0,1970-1975,2.133
+Sao Tome and Principe,678.0,1975-1980,2.786
+Sao Tome and Principe,678.0,1980-1985,1.735
+Sao Tome and Principe,678.0,1985-1990,1.847
+Sao Tome and Principe,678.0,1990-1995,2.028
+Sao Tome and Principe,678.0,1995-2000,1.747
+Sao Tome and Principe,678.0,2000-2005,2.204
+Sao Tome and Principe,678.0,2005-2010,2.191
+Sao Tome and Principe,678.0,2010-2015,2.157
+Northern Africa,912.0,1950-1955,2.483
+Northern Africa,912.0,1955-1960,2.673
+Northern Africa,912.0,1960-1965,2.672
+Northern Africa,912.0,1965-1970,2.594
+Northern Africa,912.0,1970-1975,2.435
+Northern Africa,912.0,1975-1980,2.656
+Northern Africa,912.0,1980-1985,2.801
+Northern Africa,912.0,1985-1990,2.609
+Northern Africa,912.0,1990-1995,2.331
+Northern Africa,912.0,1995-2000,1.757
+Northern Africa,912.0,2000-2005,1.676
+Northern Africa,912.0,2005-2010,1.721
+Northern Africa,912.0,2010-2015,1.889
+Algeria,12.0,1950-1955,2.05
+Algeria,12.0,1955-1960,2.475
+Algeria,12.0,1960-1965,2.533
+Algeria,12.0,1965-1970,2.835
+Algeria,12.0,1970-1975,2.767
+Algeria,12.0,1975-1980,2.922
+Algeria,12.0,1980-1985,3.088
+Algeria,12.0,1985-1990,2.766
+Algeria,12.0,1990-1995,2.185
+Algeria,12.0,1995-2000,1.518
+Algeria,12.0,2000-2005,1.294
+Algeria,12.0,2005-2010,1.599
+Algeria,12.0,2010-2015,1.92
+Egypt,818.0,1950-1955,2.48
+Egypt,818.0,1955-1960,2.698
+Egypt,818.0,1960-1965,2.627
+Egypt,818.0,1965-1970,2.4
+Egypt,818.0,1970-1975,2.08
+Egypt,818.0,1975-1980,2.317
+Egypt,818.0,1980-1985,2.593
+Egypt,818.0,1985-1990,2.66
+Egypt,818.0,1990-1995,2.034
+Egypt,818.0,1995-2000,1.806
+Egypt,818.0,2000-2005,1.846
+Egypt,818.0,2005-2010,1.81
+Egypt,818.0,2010-2015,2.184
+Libya,434.0,1950-1955,2.041
+Libya,434.0,1955-1960,3.028
+Libya,434.0,1960-1965,3.597
+Libya,434.0,1965-1970,4.16
+Libya,434.0,1970-1975,4.303
+Libya,434.0,1975-1980,3.932
+Libya,434.0,1980-1985,3.704
+Libya,434.0,1985-1990,2.712
+Libya,434.0,1990-1995,2.071
+Libya,434.0,1995-2000,1.799
+Libya,434.0,2000-2005,1.668
+Libya,434.0,2005-2010,1.539
+Libya,434.0,2010-2015,0.041
+Morocco,504.0,1950-1955,3.119
+Morocco,504.0,1955-1960,3.206
+Morocco,504.0,1960-1965,2.895
+Morocco,504.0,1965-1970,2.368
+Morocco,504.0,1970-1975,2.144
+Morocco,504.0,1975-1980,2.341
+Morocco,504.0,1980-1985,2.369
+Morocco,504.0,1985-1990,1.982
+Morocco,504.0,1990-1995,1.699
+Morocco,504.0,1995-2000,1.275
+Morocco,504.0,2000-2005,0.968
+Morocco,504.0,2005-2010,1.103
+Morocco,504.0,2010-2015,1.366
+Sudan,729.0,1950-1955,2.639
+Sudan,729.0,1955-1960,2.804
+Sudan,729.0,1960-1965,2.984
+Sudan,729.0,1965-1970,3.157
+Sudan,729.0,1970-1975,3.312
+Sudan,729.0,1975-1980,3.545
+Sudan,729.0,1980-1985,3.409
+Sudan,729.0,1985-1990,3.145
+Sudan,729.0,1990-1995,4.206
+Sudan,729.0,1995-2000,2.571
+Sudan,729.0,2000-2005,2.608
+Sudan,729.0,2005-2010,2.426
+Sudan,729.0,2010-2015,2.161
+Tunisia,788.0,1950-1955,1.793
+Tunisia,788.0,1955-1960,1.147
+Tunisia,788.0,1960-1965,1.694
+Tunisia,788.0,1965-1970,2.147
+Tunisia,788.0,1970-1975,2.213
+Tunisia,788.0,1975-1980,2.384
+Tunisia,788.0,1980-1985,2.791
+Tunisia,788.0,1985-1990,2.345
+Tunisia,788.0,1990-1995,2.034
+Tunisia,788.0,1995-2000,1.245
+Tunisia,788.0,2000-2005,0.815
+Tunisia,788.0,2005-2010,1.035
+Tunisia,788.0,2010-2015,1.123
+Western Sahara,732.0,1950-1955,8.588
+Western Sahara,732.0,1955-1960,8.751
+Western Sahara,732.0,1960-1965,8.841
+Western Sahara,732.0,1965-1970,8.219
+Western Sahara,732.0,1970-1975,-0.506
+Western Sahara,732.0,1975-1980,13.991
+Western Sahara,732.0,1980-1985,3.798
+Western Sahara,732.0,1985-1990,3.456
+Western Sahara,732.0,1990-1995,3.11
+Western Sahara,732.0,1995-2000,3.755
+Western Sahara,732.0,2000-2005,6.726
+Western Sahara,732.0,2005-2010,3.597
+Western Sahara,732.0,2010-2015,2.233
+Southern Africa,913.0,1950-1955,2.299
+Southern Africa,913.0,1955-1960,2.407
+Southern Africa,913.0,1960-1965,2.56
+Southern Africa,913.0,1965-1970,2.541
+Southern Africa,913.0,1970-1975,2.672
+Southern Africa,913.0,1975-1980,2.519
+Southern Africa,913.0,1980-1985,2.552
+Southern Africa,913.0,1985-1990,2.296
+Southern Africa,913.0,1990-1995,2.385
+Southern Africa,913.0,1995-2000,1.651
+Southern Africa,913.0,2000-2005,1.433
+Southern Africa,913.0,2005-2010,1.327
+Southern Africa,913.0,2010-2015,1.173
+Botswana,72.0,1950-1955,2.594
+Botswana,72.0,1955-1960,2.19
+Botswana,72.0,1960-1965,2.565
+Botswana,72.0,1965-1970,3.025
+Botswana,72.0,1970-1975,3.414
+Botswana,72.0,1975-1980,3.846
+Botswana,72.0,1980-1985,3.434
+Botswana,72.0,1985-1990,3.079
+Botswana,72.0,1990-1995,2.663
+Botswana,72.0,1995-2000,1.937
+Botswana,72.0,2000-2005,1.416
+Botswana,72.0,2005-2010,1.881
+Botswana,72.0,2010-2015,1.994
+Lesotho,426.0,1950-1955,1.415
+Lesotho,426.0,1955-1960,1.554
+Lesotho,426.0,1960-1965,1.836
+Lesotho,426.0,1965-1970,2.016
+Lesotho,426.0,1970-1975,2.145
+Lesotho,426.0,1975-1980,2.581
+Lesotho,426.0,1980-1985,2.315
+Lesotho,426.0,1985-1990,1.693
+Lesotho,426.0,1990-1995,1.867
+Lesotho,426.0,1995-2000,1.135
+Lesotho,426.0,2000-2005,0.736
+Lesotho,426.0,2005-2010,0.861
+Lesotho,426.0,2010-2015,1.201
+Namibia,516.0,1950-1955,2.045
+Namibia,516.0,1955-1960,2.284
+Namibia,516.0,1960-1965,2.494
+Namibia,516.0,1965-1970,2.679
+Namibia,516.0,1970-1975,2.977
+Namibia,516.0,1975-1980,2.236
+Namibia,516.0,1980-1985,2.531
+Namibia,516.0,1985-1990,4.164
+Namibia,516.0,1990-1995,3.118
+Namibia,516.0,1995-2000,2.749
+Namibia,516.0,2000-2005,1.316
+Namibia,516.0,2005-2010,1.58
+Namibia,516.0,2010-2015,2.282
+South Africa,710.0,1950-1955,2.344
+South Africa,710.0,1955-1960,2.458
+South Africa,710.0,1960-1965,2.602
+South Africa,710.0,1965-1970,2.545
+South Africa,710.0,1970-1975,2.656
+South Africa,710.0,1975-1980,2.47
+South Africa,710.0,1980-1985,2.521
+South Africa,710.0,1985-1990,2.187
+South Africa,710.0,1990-1995,2.372
+South Africa,710.0,1995-2000,1.609
+South Africa,710.0,2000-2005,1.483
+South Africa,710.0,2005-2010,1.308
+South Africa,710.0,2010-2015,1.082
+Swaziland,748.0,1950-1955,2.364
+Swaziland,748.0,1955-1960,2.562
+Swaziland,748.0,1960-1965,2.293
+Swaziland,748.0,1965-1970,2.592
+Swaziland,748.0,1970-1975,2.965
+Swaziland,748.0,1975-1980,3.086
+Swaziland,748.0,1980-1985,3.127
+Swaziland,748.0,1985-1990,4.024
+Swaziland,748.0,1990-1995,2.208
+Swaziland,748.0,1995-2000,1.981
+Swaziland,748.0,2000-2005,0.755
+Swaziland,748.0,2005-2010,1.541
+Swaziland,748.0,2010-2015,1.514
+Western Africa,914.0,1950-1955,1.688
+Western Africa,914.0,1955-1960,1.964
+Western Africa,914.0,1960-1965,2.147
+Western Africa,914.0,1965-1970,2.285
+Western Africa,914.0,1970-1975,2.486
+Western Africa,914.0,1975-1980,2.703
+Western Africa,914.0,1980-1985,2.749
+Western Africa,914.0,1985-1990,2.687
+Western Africa,914.0,1990-1995,2.702
+Western Africa,914.0,1995-2000,2.614
+Western Africa,914.0,2000-2005,2.645
+Western Africa,914.0,2005-2010,2.744
+Western Africa,914.0,2010-2015,2.741
+Benin,204.0,1950-1955,0.424
+Benin,204.0,1955-1960,1.082
+Benin,204.0,1960-1965,1.586
+Benin,204.0,1965-1970,1.99
+Benin,204.0,1970-1975,2.305
+Benin,204.0,1975-1980,2.611
+Benin,204.0,1980-1985,2.849
+Benin,204.0,1985-1990,3.081
+Benin,204.0,1990-1995,3.593
+Benin,204.0,1995-2000,2.986
+Benin,204.0,2000-2005,3.267
+Benin,204.0,2005-2010,3.007
+Benin,204.0,2010-2015,2.692
+Burkina Faso,854.0,1950-1955,1.058
+Burkina Faso,854.0,1955-1960,1.336
+Burkina Faso,854.0,1960-1965,1.382
+Burkina Faso,854.0,1965-1970,1.667
+Burkina Faso,854.0,1970-1975,1.801
+Burkina Faso,854.0,1975-1980,2.062
+Burkina Faso,854.0,1980-1985,2.491
+Burkina Faso,854.0,1985-1990,2.623
+Burkina Faso,854.0,1990-1995,2.711
+Burkina Faso,854.0,1995-2000,2.803
+Burkina Faso,854.0,2000-2005,2.904
+Burkina Faso,854.0,2005-2010,3.049
+Burkina Faso,854.0,2010-2015,2.938
+Cabo Verde,132.0,1950-1955,2.064
+Cabo Verde,132.0,1955-1960,0.49
+Cabo Verde,132.0,1960-1965,2.689
+Cabo Verde,132.0,1965-1970,3.098
+Cabo Verde,132.0,1970-1975,0.175
+Cabo Verde,132.0,1975-1980,0.933
+Cabo Verde,132.0,1980-1985,1.895
+Cabo Verde,132.0,1985-1990,1.666
+Cabo Verde,132.0,1990-1995,2.627
+Cabo Verde,132.0,1995-2000,2.398
+Cabo Verde,132.0,2000-2005,1.556
+Cabo Verde,132.0,2005-2010,0.67
+Cabo Verde,132.0,2010-2015,1.192
+Côte d'Ivoire,384.0,1950-1955,2.494
+Côte d'Ivoire,384.0,1955-1960,3.075
+Côte d'Ivoire,384.0,1960-1965,3.885
+Côte d'Ivoire,384.0,1965-1970,4.338
+Côte d'Ivoire,384.0,1970-1975,4.627
+Côte d'Ivoire,384.0,1975-1980,4.481
+Côte d'Ivoire,384.0,1980-1985,4.123
+Côte d'Ivoire,384.0,1985-1990,3.607
+Côte d'Ivoire,384.0,1990-1995,3.378
+Côte d'Ivoire,384.0,1995-2000,2.738
+Côte d'Ivoire,384.0,2000-2005,1.865
+Côte d'Ivoire,384.0,2005-2010,2.092
+Côte d'Ivoire,384.0,2010-2015,2.403
+Gambia,270.0,1950-1955,2.273
+Gambia,270.0,1955-1960,3.815
+Gambia,270.0,1960-1965,1.715
+Gambia,270.0,1965-1970,2.191
+Gambia,270.0,1970-1975,3.054
+Gambia,270.0,1975-1980,2.966
+Gambia,270.0,1980-1985,3.834
+Gambia,270.0,1985-1990,4.5
+Gambia,270.0,1990-1995,3.011
+Gambia,270.0,1995-2000,2.848
+Gambia,270.0,2000-2005,3.179
+Gambia,270.0,2005-2010,3.23
+Gambia,270.0,2010-2015,3.242
+Ghana,288.0,1950-1955,2.628
+Ghana,288.0,1955-1960,3.159
+Ghana,288.0,1960-1965,2.953
+Ghana,288.0,1965-1970,2.176
+Ghana,288.0,1970-1975,2.683
+Ghana,288.0,1975-1980,1.883
+Ghana,288.0,1980-1985,3.263
+Ghana,288.0,1985-1990,2.802
+Ghana,288.0,1990-1995,2.722
+Ghana,288.0,1995-2000,2.323
+Ghana,288.0,2000-2005,2.554
+Ghana,288.0,2005-2010,2.566
+Ghana,288.0,2010-2015,2.394
+Guinea,324.0,1950-1955,1.389
+Guinea,324.0,1955-1960,1.517
+Guinea,324.0,1960-1965,1.613
+Guinea,324.0,1965-1970,1.67
+Guinea,324.0,1970-1975,0.673
+Guinea,324.0,1975-1980,0.662
+Guinea,324.0,1980-1985,2.39
+Guinea,324.0,1985-1990,3.447
+Guinea,324.0,1990-1995,5.295
+Guinea,324.0,1995-2000,2.25
+Guinea,324.0,2000-2005,1.885
+Guinea,324.0,2005-2010,2.602
+Guinea,324.0,2010-2015,2.707
+Guinea-Bissau,624.0,1950-1955,1.439
+Guinea-Bissau,624.0,1955-1960,1.378
+Guinea-Bissau,624.0,1960-1965,1.14
+Guinea-Bissau,624.0,1965-1970,1.738
+Guinea-Bissau,624.0,1970-1975,1.79
+Guinea-Bissau,624.0,1975-1980,1.755
+Guinea-Bissau,624.0,1980-1985,2.12
+Guinea-Bissau,624.0,1985-1990,2.226
+Guinea-Bissau,624.0,1990-1995,2.231
+Guinea-Bissau,624.0,1995-2000,2.159
+Guinea-Bissau,624.0,2000-2005,2.123
+Guinea-Bissau,624.0,2005-2010,2.216
+Guinea-Bissau,624.0,2010-2015,2.419
+Liberia,430.0,1950-1955,1.651
+Liberia,430.0,1955-1960,2.072
+Liberia,430.0,1960-1965,2.238
+Liberia,430.0,1965-1970,2.499
+Liberia,430.0,1970-1975,2.746
+Liberia,430.0,1975-1980,3.003
+Liberia,430.0,1980-1985,2.988
+Liberia,430.0,1985-1990,-0.88
+Liberia,430.0,1990-1995,-0.22
+Liberia,430.0,1995-2000,6.592
+Liberia,430.0,2000-2005,2.456
+Liberia,430.0,2005-2010,3.82
+Liberia,430.0,2010-2015,2.582
+Mali,466.0,1950-1955,1.103
+Mali,466.0,1955-1960,1.127
+Mali,466.0,1960-1965,1.126
+Mali,466.0,1965-1970,1.322
+Mali,466.0,1970-1975,1.717
+Mali,466.0,1975-1980,1.793
+Mali,466.0,1980-1985,1.99
+Mali,466.0,1985-1990,1.595
+Mali,466.0,1990-1995,2.561
+Mali,466.0,1995-2000,2.723
+Mali,466.0,2000-2005,3.073
+Mali,466.0,2005-2010,3.267
+Mali,466.0,2010-2015,2.975
+Mauritania,478.0,1950-1955,2.456
+Mauritania,478.0,1955-1960,2.78
+Mauritania,478.0,1960-1965,2.906
+Mauritania,478.0,1965-1970,2.929
+Mauritania,478.0,1970-1975,2.908
+Mauritania,478.0,1975-1980,2.875
+Mauritania,478.0,1980-1985,2.825
+Mauritania,478.0,1985-1990,2.714
+Mauritania,478.0,1990-1995,2.853
+Mauritania,478.0,1995-2000,2.998
+Mauritania,478.0,2000-2005,3.025
+Mauritania,478.0,2005-2010,2.597
+Mauritania,478.0,2010-2015,2.49
+Niger,562.0,1950-1955,2.905
+Niger,562.0,1955-1960,2.744
+Niger,562.0,1960-1965,2.883
+Niger,562.0,1965-1970,2.74
+Niger,562.0,1970-1975,2.792
+Niger,562.0,1975-1980,2.851
+Niger,562.0,1980-1985,2.738
+Niger,562.0,1985-1990,2.917
+Niger,562.0,1990-1995,3.366
+Niger,562.0,1995-2000,3.629
+Niger,562.0,2000-2005,3.67
+Niger,562.0,2005-2010,3.781
+Niger,562.0,2010-2015,4.0
+Nigeria,566.0,1950-1955,1.653
+Nigeria,566.0,1955-1960,1.896
+Nigeria,566.0,1960-1965,2.109
+Nigeria,566.0,1965-1970,2.218
+Nigeria,566.0,1970-1975,2.487
+Nigeria,566.0,1975-1980,2.958
+Nigeria,566.0,1980-1985,2.593
+Nigeria,566.0,1985-1990,2.614
+Nigeria,566.0,1990-1995,2.514
+Nigeria,566.0,1995-2000,2.502
+Nigeria,566.0,2000-2005,2.554
+Nigeria,566.0,2005-2010,2.654
+Nigeria,566.0,2010-2015,2.671
+Saint Helena,654.0,1950-1955,-0.105
+Saint Helena,654.0,1955-1960,-0.809
+Saint Helena,654.0,1960-1965,-0.525
+Saint Helena,654.0,1965-1970,1.085
+Saint Helena,654.0,1970-1975,1.165
+Saint Helena,654.0,1975-1980,0.575
+Saint Helena,654.0,1980-1985,0.942
+Saint Helena,654.0,1985-1990,-0.198
+Saint Helena,654.0,1990-1995,-0.902
+Saint Helena,654.0,1995-2000,-0.669
+Saint Helena,654.0,2000-2005,-3.585
+Saint Helena,654.0,2005-2010,-0.478
+Saint Helena,654.0,2010-2015,-1.043
+Senegal,686.0,1950-1955,2.325
+Senegal,686.0,1955-1960,2.659
+Senegal,686.0,1960-1965,2.768
+Senegal,686.0,1965-1970,2.895
+Senegal,686.0,1970-1975,3.001
+Senegal,686.0,1975-1980,2.556
+Senegal,686.0,1980-1985,2.901
+Senegal,686.0,1985-1990,3.091
+Senegal,686.0,1990-1995,2.955
+Senegal,686.0,1995-2000,2.48
+Senegal,686.0,2000-2005,2.67
+Senegal,686.0,2005-2010,2.791
+Senegal,686.0,2010-2015,3.1
+Sierra Leone,694.0,1950-1955,1.08
+Sierra Leone,694.0,1955-1960,1.227
+Sierra Leone,694.0,1960-1965,1.341
+Sierra Leone,694.0,1965-1970,1.496
+Sierra Leone,694.0,1970-1975,1.909
+Sierra Leone,694.0,1975-1980,2.193
+Sierra Leone,694.0,1980-1985,2.32
+Sierra Leone,694.0,1985-1990,2.519
+Sierra Leone,694.0,1990-1995,-0.481
+Sierra Leone,694.0,1995-2000,1.129
+Sierra Leone,694.0,2000-2005,4.445
+Sierra Leone,694.0,2005-2010,2.602
+Sierra Leone,694.0,2010-2015,2.218
+Togo,768.0,1950-1955,1.093
+Togo,768.0,1955-1960,1.398
+Togo,768.0,1960-1965,1.559
+Togo,768.0,1965-1970,4.272
+Togo,768.0,1970-1975,2.61
+Togo,768.0,1975-1980,2.423
+Togo,768.0,1980-1985,3.573
+Togo,768.0,1985-1990,3.04
+Togo,768.0,1990-1995,2.468
+Togo,768.0,1995-2000,2.582
+Togo,768.0,2000-2005,2.696
+Togo,768.0,2005-2010,2.72
+Togo,768.0,2010-2015,2.673
+ASIA,935.0,1950-1955,1.91
+ASIA,935.0,1955-1960,1.902
+ASIA,935.0,1960-1965,2.115
+ASIA,935.0,1965-1970,2.462
+ASIA,935.0,1970-1975,2.293
+ASIA,935.0,1975-1980,1.98
+ASIA,935.0,1980-1985,1.969
+ASIA,935.0,1985-1990,2.004
+ASIA,935.0,1990-1995,1.633
+ASIA,935.0,1995-2000,1.334
+ASIA,935.0,2000-2005,1.203
+ASIA,935.0,2005-2010,1.11
+ASIA,935.0,2010-2015,1.044
+Eastern Asia,906.0,1950-1955,1.834
+Eastern Asia,906.0,1955-1960,1.516
+Eastern Asia,906.0,1960-1965,1.802
+Eastern Asia,906.0,1965-1970,2.517
+Eastern Asia,906.0,1970-1975,2.158
+Eastern Asia,906.0,1975-1980,1.483
+Eastern Asia,906.0,1980-1985,1.405
+Eastern Asia,906.0,1985-1990,1.673
+Eastern Asia,906.0,1990-1995,1.138
+Eastern Asia,906.0,1995-2000,0.646
+Eastern Asia,906.0,2000-2005,0.531
+Eastern Asia,906.0,2005-2010,0.499
+Eastern Asia,906.0,2010-2015,0.464
+China,156.0,1950-1955,1.908
+China,156.0,1955-1960,1.477
+China,156.0,1960-1965,1.841
+China,156.0,1965-1970,2.695
+China,156.0,1970-1975,2.268
+China,156.0,1975-1980,1.535
+China,156.0,1980-1985,1.474
+China,156.0,1985-1990,1.849
+China,156.0,1990-1995,1.23
+China,156.0,1995-2000,0.675
+China,156.0,2000-2005,0.553
+China,156.0,2005-2010,0.535
+China,156.0,2010-2015,0.516
+"China, Hong Kong SAR",344.0,1950-1955,4.645
+"China, Hong Kong SAR",344.0,1955-1960,4.225
+"China, Hong Kong SAR",344.0,1960-1965,4.239
+"China, Hong Kong SAR",344.0,1965-1970,0.806
+"China, Hong Kong SAR",344.0,1970-1975,1.912
+"China, Hong Kong SAR",344.0,1975-1980,2.974
+"China, Hong Kong SAR",344.0,1980-1985,1.38
+"China, Hong Kong SAR",344.0,1985-1990,1.354
+"China, Hong Kong SAR",344.0,1990-1995,1.175
+"China, Hong Kong SAR",344.0,1995-2000,1.979
+"China, Hong Kong SAR",344.0,2000-2005,0.173
+"China, Hong Kong SAR",344.0,2005-2010,0.437
+"China, Hong Kong SAR",344.0,2010-2015,0.825
+"China, Macao SAR",446.0,1950-1955,-1.592
+"China, Macao SAR",446.0,1955-1960,-1.133
+"China, Macao SAR",446.0,1960-1965,3.759
+"China, Macao SAR",446.0,1965-1970,3.863
+"China, Macao SAR",446.0,1970-1975,-0.223
+"China, Macao SAR",446.0,1975-1980,-0.16
+"China, Macao SAR",446.0,1980-1985,3.696
+"China, Macao SAR",446.0,1985-1990,3.885
+"China, Macao SAR",446.0,1990-1995,2.045
+"China, Macao SAR",446.0,1995-2000,1.612
+"China, Macao SAR",446.0,2000-2005,1.612
+"China, Macao SAR",446.0,2005-2010,2.656
+"China, Macao SAR",446.0,2010-2015,1.89
+Dem. People's Republic of Korea,408.0,1950-1955,-0.897
+Dem. People's Republic of Korea,408.0,1955-1960,2.49
+Dem. People's Republic of Korea,408.0,1960-1965,1.876
+Dem. People's Republic of Korea,408.0,1965-1970,2.769
+Dem. People's Republic of Korea,408.0,1970-1975,2.433
+Dem. People's Republic of Korea,408.0,1975-1980,1.305
+Dem. People's Republic of Korea,408.0,1980-1985,1.556
+Dem. People's Republic of Korea,408.0,1985-1990,1.454
+Dem. People's Republic of Korea,408.0,1990-1995,1.497
+Dem. People's Republic of Korea,408.0,1995-2000,0.966
+Dem. People's Republic of Korea,408.0,2000-2005,0.834
+Dem. People's Republic of Korea,408.0,2005-2010,0.569
+Dem. People's Republic of Korea,408.0,2010-2015,0.528
+Japan,392.0,1950-1955,1.452
+Japan,392.0,1955-1960,0.909
+Japan,392.0,1960-1965,1.02
+Japan,392.0,1965-1970,1.267
+Japan,392.0,1970-1975,1.324
+Japan,392.0,1975-1980,0.901
+Japan,392.0,1980-1985,0.691
+Japan,392.0,1985-1990,0.373
+Japan,392.0,1990-1995,0.362
+Japan,392.0,1995-2000,0.197
+Japan,392.0,2000-2005,0.2
+Japan,392.0,2005-2010,0.054
+Japan,392.0,2010-2015,-0.118
+Mongolia,496.0,1950-1955,1.833
+Mongolia,496.0,1955-1960,2.221
+Mongolia,496.0,1960-1965,2.945
+Mongolia,496.0,1965-1970,2.884
+Mongolia,496.0,1970-1975,2.917
+Mongolia,496.0,1975-1980,2.654
+Mongolia,496.0,1980-1985,2.576
+Mongolia,496.0,1985-1990,2.558
+Mongolia,496.0,1990-1995,1.017
+Mongolia,496.0,1995-2000,0.847
+Mongolia,496.0,2000-2005,1.048
+Mongolia,496.0,2005-2010,1.422
+Mongolia,496.0,2010-2015,1.739
+Republic of Korea,410.0,1950-1955,1.94
+Republic of Korea,410.0,1955-1960,3.386
+Republic of Korea,410.0,1960-1965,2.486
+Republic of Korea,410.0,1965-1970,2.037
+Republic of Korea,410.0,1970-1975,1.983
+Republic of Korea,410.0,1975-1980,1.518
+Republic of Korea,410.0,1980-1985,1.566
+Republic of Korea,410.0,1985-1990,1.184
+Republic of Korea,410.0,1990-1995,0.767
+Republic of Korea,410.0,1995-2000,0.684
+Republic of Korea,410.0,2000-2005,0.597
+Republic of Korea,410.0,2005-2010,0.614
+Republic of Korea,410.0,2010-2015,0.484
+Other non-specified areas,158.0,1950-1955,3.152
+Other non-specified areas,158.0,1955-1960,3.401
+Other non-specified areas,158.0,1960-1965,3.426
+Other non-specified areas,158.0,1965-1970,3.124
+Other non-specified areas,158.0,1970-1975,1.988
+Other non-specified areas,158.0,1975-1980,2.043
+Other non-specified areas,158.0,1980-1985,1.53
+Other non-specified areas,158.0,1985-1990,1.021
+Other non-specified areas,158.0,1990-1995,0.893
+Other non-specified areas,158.0,1995-2000,0.724
+Other non-specified areas,158.0,2000-2005,0.689
+Other non-specified areas,158.0,2005-2010,0.433
+Other non-specified areas,158.0,2010-2015,0.155
+South-Central Asia,921.0,1950-1955,1.758
+South-Central Asia,921.0,1955-1960,2.04
+South-Central Asia,921.0,1960-1965,2.214
+South-Central Asia,921.0,1965-1970,2.289
+South-Central Asia,921.0,1970-1975,2.318
+South-Central Asia,921.0,1975-1980,2.389
+South-Central Asia,921.0,1980-1985,2.403
+South-Central Asia,921.0,1985-1990,2.291
+South-Central Asia,921.0,1990-1995,2.037
+South-Central Asia,921.0,1995-2000,1.869
+South-Central Asia,921.0,2000-2005,1.681
+South-Central Asia,921.0,2005-2010,1.481
+South-Central Asia,921.0,2010-2015,1.37
+Central Asia,5500.0,1950-1955,2.74
+Central Asia,5500.0,1955-1960,3.375
+Central Asia,5500.0,1960-1965,3.344
+Central Asia,5500.0,1965-1970,2.612
+Central Asia,5500.0,1970-1975,2.382
+Central Asia,5500.0,1975-1980,2.0
+Central Asia,5500.0,1980-1985,2.052
+Central Asia,5500.0,1985-1990,1.943
+Central Asia,5500.0,1990-1995,1.071
+Central Asia,5500.0,1995-2000,0.716
+Central Asia,5500.0,2000-2005,1.034
+Central Asia,5500.0,2005-2010,1.364
+Central Asia,5500.0,2010-2015,1.6
+Kazakhstan,398.0,1950-1955,3.518
+Kazakhstan,398.0,1955-1960,4.475
+Kazakhstan,398.0,1960-1965,3.502
+Kazakhstan,398.0,1965-1970,1.922
+Kazakhstan,398.0,1970-1975,1.507
+Kazakhstan,398.0,1975-1980,1.078
+Kazakhstan,398.0,1980-1985,1.122
+Kazakhstan,398.0,1985-1990,0.929
+Kazakhstan,398.0,1990-1995,-0.745
+Kazakhstan,398.0,1995-2000,-1.256
+Kazakhstan,398.0,2000-2005,0.651
+Kazakhstan,398.0,2005-2010,1.082
+Kazakhstan,398.0,2010-2015,1.55
+Kyrgyzstan,417.0,1950-1955,1.786
+Kyrgyzstan,417.0,1955-1960,2.654
+Kyrgyzstan,417.0,1960-1965,3.388
+Kyrgyzstan,417.0,1965-1970,2.829
+Kyrgyzstan,417.0,1970-1975,2.138
+Kyrgyzstan,417.0,1975-1980,1.898
+Kyrgyzstan,417.0,1980-1985,2.022
+Kyrgyzstan,417.0,1985-1990,1.814
+Kyrgyzstan,417.0,1990-1995,0.88
+Kyrgyzstan,417.0,1995-2000,1.52
+Kyrgyzstan,417.0,2000-2005,0.638
+Kyrgyzstan,417.0,2005-2010,1.32
+Kyrgyzstan,417.0,2010-2015,1.668
+Tajikistan,762.0,1950-1955,2.945
+Tajikistan,762.0,1955-1960,3.023
+Tajikistan,762.0,1960-1965,3.75
+Tajikistan,762.0,1965-1970,3.186
+Tajikistan,762.0,1970-1975,3.122
+Tajikistan,762.0,1975-1980,2.759
+Tajikistan,762.0,1980-1985,2.952
+Tajikistan,762.0,1985-1990,3.082
+Tajikistan,762.0,1990-1995,1.759
+Tajikistan,762.0,1995-2000,1.343
+Tajikistan,762.0,2000-2005,1.909
+Tajikistan,762.0,2005-2010,2.16
+Tajikistan,762.0,2010-2015,2.244
+Turkmenistan,795.0,1950-1955,2.254
+Turkmenistan,795.0,1955-1960,3.235
+Turkmenistan,795.0,1960-1965,3.413
+Turkmenistan,795.0,1965-1970,2.933
+Turkmenistan,795.0,1970-1975,2.821
+Turkmenistan,795.0,1975-1980,2.538
+Turkmenistan,795.0,1980-1985,2.423
+Turkmenistan,795.0,1985-1990,2.546
+Turkmenistan,795.0,1990-1995,2.652
+Turkmenistan,795.0,1995-2000,1.443
+Turkmenistan,795.0,2000-2005,1.066
+Turkmenistan,795.0,2005-2010,1.202
+Turkmenistan,795.0,2010-2015,1.274
+Uzbekistan,860.0,1950-1955,2.24
+Uzbekistan,860.0,1955-1960,2.469
+Uzbekistan,860.0,1960-1965,3.042
+Uzbekistan,860.0,1965-1970,3.14
+Uzbekistan,860.0,1970-1975,3.101
+Uzbekistan,860.0,1975-1980,2.638
+Uzbekistan,860.0,1980-1985,2.608
+Uzbekistan,860.0,1985-1990,2.423
+Uzbekistan,860.0,1990-1995,2.013
+Uzbekistan,860.0,1995-2000,1.552
+Uzbekistan,860.0,2000-2005,1.114
+Uzbekistan,860.0,2005-2010,1.355
+Uzbekistan,860.0,2010-2015,1.495
+Southern Asia,5501.0,1950-1955,1.721
+Southern Asia,5501.0,1955-1960,1.986
+Southern Asia,5501.0,1960-1965,2.166
+Southern Asia,5501.0,1965-1970,2.275
+Southern Asia,5501.0,1970-1975,2.315
+Southern Asia,5501.0,1975-1980,2.406
+Southern Asia,5501.0,1980-1985,2.418
+Southern Asia,5501.0,1985-1990,2.306
+Southern Asia,5501.0,1990-1995,2.077
+Southern Asia,5501.0,1995-2000,1.914
+Southern Asia,5501.0,2000-2005,1.705
+Southern Asia,5501.0,2005-2010,1.485
+Southern Asia,5501.0,2010-2015,1.362
+Afghanistan,4.0,1950-1955,1.293
+Afghanistan,4.0,1955-1960,1.68
+Afghanistan,4.0,1960-1965,1.989
+Afghanistan,4.0,1965-1970,2.255
+Afghanistan,4.0,1970-1975,2.47
+Afghanistan,4.0,1975-1980,0.975
+Afghanistan,4.0,1980-1985,-2.549
+Afghanistan,4.0,1985-1990,0.738
+Afghanistan,4.0,1990-1995,6.584
+Afghanistan,4.0,1995-2000,3.22
+Afghanistan,4.0,2000-2005,4.277
+Afghanistan,4.0,2005-2010,2.725
+Afghanistan,4.0,2010-2015,3.024
+Bangladesh,50.0,1950-1955,2.115
+Bangladesh,50.0,1955-1960,2.696
+Bangladesh,50.0,1960-1965,2.941
+Bangladesh,50.0,1965-1970,3.055
+Bangladesh,50.0,1970-1975,1.82
+Bangladesh,50.0,1975-1980,2.656
+Bangladesh,50.0,1980-1985,2.677
+Bangladesh,50.0,1985-1990,2.61
+Bangladesh,50.0,1990-1995,2.22
+Bangladesh,50.0,1995-2000,2.061
+Bangladesh,50.0,2000-2005,1.7
+Bangladesh,50.0,2005-2010,1.18
+Bangladesh,50.0,2010-2015,1.2
+Bhutan,64.0,1950-1955,2.475
+Bhutan,64.0,1955-1960,2.267
+Bhutan,64.0,1960-1965,2.396
+Bhutan,64.0,1965-1970,2.859
+Bhutan,64.0,1970-1975,3.612
+Bhutan,64.0,1975-1980,3.338
+Bhutan,64.0,1980-1985,2.565
+Bhutan,64.0,1985-1990,2.652
+Bhutan,64.0,1990-1995,-1.019
+Bhutan,64.0,1995-2000,2.063
+Bhutan,64.0,2000-2005,2.867
+Bhutan,64.0,2005-2010,2.017
+Bhutan,64.0,2010-2015,1.461
+India,356.0,1950-1955,1.679
+India,356.0,1955-1960,1.882
+India,356.0,1960-1965,2.039
+India,356.0,1965-1970,2.132
+India,356.0,1970-1975,2.308
+India,356.0,1975-1980,2.293
+India,356.0,1980-1985,2.297
+India,356.0,1985-1990,2.144
+India,356.0,1990-1995,1.973
+India,356.0,1995-2000,1.84
+India,356.0,2000-2005,1.654
+India,356.0,2005-2010,1.46
+India,356.0,2010-2015,1.26
+Iran (Islamic Republic of),364.0,1950-1955,2.392
+Iran (Islamic Republic of),364.0,1955-1960,2.54
+Iran (Islamic Republic of),364.0,1960-1965,2.606
+Iran (Islamic Republic of),364.0,1965-1970,2.666
+Iran (Islamic Republic of),364.0,1970-1975,2.758
+Iran (Islamic Republic of),364.0,1975-1980,3.334
+Iran (Islamic Republic of),364.0,1980-1985,4.026
+Iran (Islamic Republic of),364.0,1985-1990,3.441
+Iran (Islamic Republic of),364.0,1990-1995,1.425
+Iran (Islamic Republic of),364.0,1995-2000,1.755
+Iran (Islamic Republic of),364.0,2000-2005,1.257
+Iran (Islamic Republic of),364.0,2005-2010,1.145
+Iran (Islamic Republic of),364.0,2010-2015,1.267
+Maldives,462.0,1950-1955,1.562
+Maldives,462.0,1955-1960,2.402
+Maldives,462.0,1960-1965,2.672
+Maldives,462.0,1965-1970,2.38
+Maldives,462.0,1970-1975,3.296
+Maldives,462.0,1975-1980,2.971
+Maldives,462.0,1980-1985,3.606
+Maldives,462.0,1985-1990,3.266
+Maldives,462.0,1990-1995,2.593
+Maldives,462.0,1995-2000,1.971
+Maldives,462.0,2000-2005,1.681
+Maldives,462.0,2005-2010,1.733
+Maldives,462.0,2010-2015,1.787
+Nepal,524.0,1950-1955,1.817
+Nepal,524.0,1955-1960,1.586
+Nepal,524.0,1960-1965,1.619
+Nepal,524.0,1965-1970,1.892
+Nepal,524.0,1970-1975,2.099
+Nepal,524.0,1975-1980,2.238
+Nepal,524.0,1980-1985,2.311
+Nepal,524.0,1985-1990,2.29
+Nepal,524.0,1990-1995,2.644
+Nepal,524.0,1995-2000,2.084
+Nepal,524.0,2000-2005,1.436
+Nepal,524.0,2005-2010,1.046
+Nepal,524.0,2010-2015,1.183
+Pakistan,586.0,1950-1955,1.481
+Pakistan,586.0,1955-1960,2.104
+Pakistan,586.0,1960-1965,2.483
+Pakistan,586.0,1965-1970,2.664
+Pakistan,586.0,1970-1975,2.79
+Pakistan,586.0,1975-1980,3.121
+Pakistan,586.0,1980-1985,3.319
+Pakistan,586.0,1985-1990,3.098
+Pakistan,586.0,1990-1995,2.609
+Pakistan,586.0,1995-2000,2.403
+Pakistan,586.0,2000-2005,2.074
+Pakistan,586.0,2005-2010,2.066
+Pakistan,586.0,2010-2015,2.106
+Sri Lanka,144.0,1950-1955,1.791
+Sri Lanka,144.0,1955-1960,2.274
+Sri Lanka,144.0,1960-1965,2.328
+Sri Lanka,144.0,1965-1970,2.324
+Sri Lanka,144.0,1970-1975,1.935
+Sri Lanka,144.0,1975-1980,1.78
+Sri Lanka,144.0,1980-1985,1.467
+Sri Lanka,144.0,1985-1990,1.373
+Sri Lanka,144.0,1990-1995,1.032
+Sri Lanka,144.0,1995-2000,0.578
+Sri Lanka,144.0,2000-2005,0.776
+Sri Lanka,144.0,2005-2010,0.68
+Sri Lanka,144.0,2010-2015,0.502
+South-Eastern Asia,920.0,1950-1955,2.454
+South-Eastern Asia,920.0,1955-1960,2.743
+South-Eastern Asia,920.0,1960-1965,2.792
+South-Eastern Asia,920.0,1965-1970,2.708
+South-Eastern Asia,920.0,1970-1975,2.545
+South-Eastern Asia,920.0,1975-1980,2.268
+South-Eastern Asia,920.0,1980-1985,2.298
+South-Eastern Asia,920.0,1985-1990,2.077
+South-Eastern Asia,920.0,1990-1995,1.769
+South-Eastern Asia,920.0,1995-2000,1.552
+South-Eastern Asia,920.0,2000-2005,1.358
+South-Eastern Asia,920.0,2005-2010,1.157
+South-Eastern Asia,920.0,2010-2015,1.196
+Brunei Darussalam,96.0,1950-1955,5.565
+Brunei Darussalam,96.0,1955-1960,5.102
+Brunei Darussalam,96.0,1960-1965,4.51
+Brunei Darussalam,96.0,1965-1970,4.707
+Brunei Darussalam,96.0,1970-1975,4.294
+Brunei Darussalam,96.0,1975-1980,3.657
+Brunei Darussalam,96.0,1980-1985,2.888
+Brunei Darussalam,96.0,1985-1990,2.829
+Brunei Darussalam,96.0,1990-1995,2.763
+Brunei Darussalam,96.0,1995-2000,2.275
+Brunei Darussalam,96.0,2000-2005,1.811
+Brunei Darussalam,96.0,2005-2010,1.665
+Brunei Darussalam,96.0,2010-2015,1.465
+Cambodia,116.0,1950-1955,2.589
+Cambodia,116.0,1955-1960,2.519
+Cambodia,116.0,1960-1965,2.447
+Cambodia,116.0,1965-1970,1.647
+Cambodia,116.0,1970-1975,1.455
+Cambodia,116.0,1975-1980,-2.34
+Cambodia,116.0,1980-1985,2.839
+Cambodia,116.0,1985-1990,3.028
+Cambodia,116.0,1990-1995,3.43
+Cambodia,116.0,1995-2000,2.631
+Cambodia,116.0,2000-2005,1.76
+Cambodia,116.0,2005-2010,1.509
+Cambodia,116.0,2010-2015,1.623
+Indonesia,360.0,1950-1955,2.122
+Indonesia,360.0,1955-1960,2.538
+Indonesia,360.0,1960-1965,2.666
+Indonesia,360.0,1965-1970,2.705
+Indonesia,360.0,1970-1975,2.592
+Indonesia,360.0,1975-1980,2.413
+Indonesia,360.0,1980-1985,2.245
+Indonesia,360.0,1985-1990,1.898
+Indonesia,360.0,1990-1995,1.642
+Indonesia,360.0,1995-2000,1.429
+Indonesia,360.0,2000-2005,1.345
+Indonesia,360.0,2005-2010,1.314
+Indonesia,360.0,2010-2015,1.279
+Lao People's Democratic Republic,418.0,1950-1955,2.325
+Lao People's Democratic Republic,418.0,1955-1960,2.292
+Lao People's Democratic Republic,418.0,1960-1965,2.323
+Lao People's Democratic Republic,418.0,1965-1970,2.41
+Lao People's Democratic Republic,418.0,1970-1975,2.528
+Lao People's Democratic Republic,418.0,1975-1980,1.301
+Lao People's Democratic Republic,418.0,1980-1985,2.469
+Lao People's Democratic Republic,418.0,1985-1990,2.869
+Lao People's Democratic Republic,418.0,1990-1995,2.683
+Lao People's Democratic Republic,418.0,1995-2000,1.904
+Lao People's Democratic Republic,418.0,2000-2005,1.451
+Lao People's Democratic Republic,418.0,2005-2010,1.719
+Lao People's Democratic Republic,418.0,2010-2015,1.659
+Malaysia,458.0,1950-1955,2.766
+Malaysia,458.0,1955-1960,3.023
+Malaysia,458.0,1960-1965,3.185
+Malaysia,458.0,1965-1970,2.619
+Malaysia,458.0,1970-1975,2.42
+Malaysia,458.0,1975-1980,2.331
+Malaysia,458.0,1980-1985,2.613
+Malaysia,458.0,1985-1990,2.886
+Malaysia,458.0,1990-1995,2.587
+Malaysia,458.0,1995-2000,2.445
+Malaysia,458.0,2000-2005,1.932
+Malaysia,458.0,2005-2010,1.725
+Malaysia,458.0,2010-2015,1.514
+Myanmar,104.0,1950-1955,1.908
+Myanmar,104.0,1955-1960,2.165
+Myanmar,104.0,1960-1965,2.232
+Myanmar,104.0,1965-1970,2.459
+Myanmar,104.0,1970-1975,2.407
+Myanmar,104.0,1975-1980,2.356
+Myanmar,104.0,1980-1985,2.216
+Myanmar,104.0,1985-1990,1.739
+Myanmar,104.0,1990-1995,1.247
+Myanmar,104.0,1995-2000,1.282
+Myanmar,104.0,2000-2005,0.948
+Myanmar,104.0,2005-2010,0.688
+Myanmar,104.0,2010-2015,0.82
+Philippines,608.0,1950-1955,3.541
+Philippines,608.0,1955-1960,3.388
+Philippines,608.0,1960-1965,3.253
+Philippines,608.0,1965-1970,2.937
+Philippines,608.0,1970-1975,2.853
+Philippines,608.0,1975-1980,2.756
+Philippines,608.0,1980-1985,2.728
+Philippines,608.0,1985-1990,2.626
+Philippines,608.0,1990-1995,2.397
+Philippines,608.0,1995-2000,2.194
+Philippines,608.0,2000-2005,2.003
+Philippines,608.0,2005-2010,1.541
+Philippines,608.0,2010-2015,1.582
+Singapore,702.0,1950-1955,4.898
+Singapore,702.0,1955-1960,4.482
+Singapore,702.0,1960-1965,2.804
+Singapore,702.0,1965-1970,1.969
+Singapore,702.0,1970-1975,1.738
+Singapore,702.0,1975-1980,1.302
+Singapore,702.0,1980-1985,2.299
+Singapore,702.0,1985-1990,2.152
+Singapore,702.0,1990-1995,2.875
+Singapore,702.0,1995-2000,2.357
+Singapore,702.0,2000-2005,2.749
+Singapore,702.0,2005-2010,2.44
+Singapore,702.0,2010-2015,1.967
+Thailand,764.0,1950-1955,2.706
+Thailand,764.0,1955-1960,2.89
+Thailand,764.0,1960-1965,2.995
+Thailand,764.0,1965-1970,2.952
+Thailand,764.0,1970-1975,2.756
+Thailand,764.0,1975-1980,2.254
+Thailand,764.0,1980-1985,1.875
+Thailand,764.0,1985-1990,1.673
+Thailand,764.0,1990-1995,0.927
+Thailand,764.0,1995-2000,1.124
+Thailand,764.0,2000-2005,0.987
+Thailand,764.0,2005-2010,0.25
+Thailand,764.0,2010-2015,0.376
+Timor-Leste,626.0,1950-1955,1.246
+Timor-Leste,626.0,1955-1960,1.594
+Timor-Leste,626.0,1960-1965,1.817
+Timor-Leste,626.0,1965-1970,1.939
+Timor-Leste,626.0,1970-1975,1.865
+Timor-Leste,626.0,1975-1980,-2.717
+Timor-Leste,626.0,1980-1985,2.577
+Timor-Leste,626.0,1985-1990,2.385
+Timor-Leste,626.0,1990-1995,2.916
+Timor-Leste,626.0,1995-2000,-0.217
+Timor-Leste,626.0,2000-2005,3.106
+Timor-Leste,626.0,2005-2010,1.322
+Timor-Leste,626.0,2010-2015,2.28
+Viet Nam,704.0,1950-1955,2.525
+Viet Nam,704.0,1955-1960,2.98
+Viet Nam,704.0,1960-1965,2.948
+Viet Nam,704.0,1965-1970,2.735
+Viet Nam,704.0,1970-1975,2.313
+Viet Nam,704.0,1975-1980,2.192
+Viet Nam,704.0,1980-1985,2.316
+Viet Nam,704.0,1985-1990,2.218
+Viet Nam,704.0,1990-1995,1.951
+Viet Nam,704.0,1995-2000,1.309
+Viet Nam,704.0,2000-2005,0.953
+Viet Nam,704.0,2005-2010,0.963
+Viet Nam,704.0,2010-2015,1.12
+Western Asia,922.0,1950-1955,2.62
+Western Asia,922.0,1955-1960,2.601
+Western Asia,922.0,1960-1965,2.649
+Western Asia,922.0,1965-1970,2.607
+Western Asia,922.0,1970-1975,2.776
+Western Asia,922.0,1975-1980,2.814
+Western Asia,922.0,1980-1985,2.854
+Western Asia,922.0,1985-1990,2.479
+Western Asia,922.0,1990-1995,2.3
+Western Asia,922.0,1995-2000,2.084
+Western Asia,922.0,2000-2005,2.136
+Western Asia,922.0,2005-2010,2.457
+Western Asia,922.0,2010-2015,2.004
+Armenia,51.0,1950-1955,2.885
+Armenia,51.0,1955-1960,3.552
+Armenia,51.0,1960-1965,3.32
+Armenia,51.0,1965-1970,2.661
+Armenia,51.0,1970-1975,2.302
+Armenia,51.0,1975-1980,1.829
+Armenia,51.0,1980-1985,1.51
+Armenia,51.0,1985-1990,1.195
+Armenia,51.0,1990-1995,-1.902
+Armenia,51.0,1995-2000,-0.934
+Armenia,51.0,2000-2005,-0.402
+Armenia,51.0,2005-2010,-0.344
+Armenia,51.0,2010-2015,0.363
+Azerbaijan,31.0,1950-1955,2.779
+Azerbaijan,31.0,1955-1960,3.163
+Azerbaijan,31.0,1960-1965,3.224
+Azerbaijan,31.0,1965-1970,2.456
+Azerbaijan,31.0,1970-1975,1.899
+Azerbaijan,31.0,1975-1980,1.587
+Azerbaijan,31.0,1980-1985,1.59
+Azerbaijan,31.0,1985-1990,1.563
+Azerbaijan,31.0,1990-1995,1.48
+Azerbaijan,31.0,1995-2000,0.874
+Azerbaijan,31.0,2000-2005,1.069
+Azerbaijan,31.0,2005-2010,1.215
+Azerbaijan,31.0,2010-2015,1.388
+Bahrain,48.0,1950-1955,2.9
+Bahrain,48.0,1955-1960,3.909
+Bahrain,48.0,1960-1965,2.846
+Bahrain,48.0,1965-1970,2.576
+Bahrain,48.0,1970-1975,4.486
+Bahrain,48.0,1975-1980,5.995
+Bahrain,48.0,1980-1985,3.061
+Bahrain,48.0,1985-1990,3.352
+Bahrain,48.0,1990-1995,2.562
+Bahrain,48.0,1995-2000,3.36
+Bahrain,48.0,2000-2005,5.25
+Bahrain,48.0,2005-2010,7.497
+Bahrain,48.0,2010-2015,1.758
+Cyprus,196.0,1950-1955,1.405
+Cyprus,196.0,1955-1960,1.559
+Cyprus,196.0,1960-1965,0.279
+Cyprus,196.0,1965-1970,1.093
+Cyprus,196.0,1970-1975,1.144
+Cyprus,196.0,1975-1980,1.068
+Cyprus,196.0,1980-1985,0.527
+Cyprus,196.0,1985-1990,1.713
+Cyprus,196.0,1990-1995,2.192
+Cyprus,196.0,1995-2000,1.956
+Cyprus,196.0,2000-2005,1.809
+Cyprus,196.0,2005-2010,1.332
+Cyprus,196.0,2010-2015,1.086
+Georgia,268.0,1950-1955,1.698
+Georgia,268.0,1955-1960,1.603
+Georgia,268.0,1960-1965,1.471
+Georgia,268.0,1965-1970,1.002
+Georgia,268.0,1970-1975,0.836
+Georgia,268.0,1975-1980,0.661
+Georgia,268.0,1980-1985,0.827
+Georgia,268.0,1985-1990,0.644
+Georgia,268.0,1990-1995,-1.495
+Georgia,268.0,1995-2000,-1.32
+Georgia,268.0,2000-2005,-1.165
+Georgia,268.0,2005-2010,-1.032
+Georgia,268.0,2010-2015,-1.214
+Iraq,368.0,1950-1955,2.568
+Iraq,368.0,1955-1960,2.285
+Iraq,368.0,1960-1965,2.778
+Iraq,368.0,1965-1970,3.38
+Iraq,368.0,1970-1975,3.278
+Iraq,368.0,1975-1980,3.114
+Iraq,368.0,1980-1985,2.635
+Iraq,368.0,1985-1990,2.304
+Iraq,368.0,1990-1995,2.912
+Iraq,368.0,1995-2000,3.072
+Iraq,368.0,2000-2005,2.726
+Iraq,368.0,2005-2010,2.665
+Iraq,368.0,2010-2015,3.31
+Israel,376.0,1950-1955,6.244
+Israel,376.0,1955-1960,3.908
+Israel,376.0,1960-1965,3.763
+Israel,376.0,1965-1970,2.438
+Israel,376.0,1970-1975,3.156
+Israel,376.0,1975-1980,2.307
+Israel,376.0,1980-1985,1.729
+Israel,376.0,1985-1990,1.942
+Israel,376.0,1990-1995,3.395
+Israel,376.0,1995-2000,2.408
+Israel,376.0,2000-2005,1.872
+Israel,376.0,2005-2010,2.332
+Israel,376.0,2010-2015,1.664
+Jordan,400.0,1950-1955,7.273
+Jordan,400.0,1955-1960,6.386
+Jordan,400.0,1960-1965,4.624
+Jordan,400.0,1965-1970,7.81
+Jordan,400.0,1970-1975,3.64
+Jordan,400.0,1975-1980,2.776
+Jordan,400.0,1980-1985,3.98
+Jordan,400.0,1985-1990,3.76
+Jordan,400.0,1990-1995,5.036
+Jordan,400.0,1995-2000,1.971
+Jordan,400.0,2000-2005,2.242
+Jordan,400.0,2005-2010,4.013
+Jordan,400.0,2010-2015,3.058
+Kuwait,414.0,1950-1955,4.928
+Kuwait,414.0,1955-1960,5.925
+Kuwait,414.0,1960-1965,12.202
+Kuwait,414.0,1965-1970,8.84
+Kuwait,414.0,1970-1975,6.747
+Kuwait,414.0,1975-1980,5.506
+Kuwait,414.0,1980-1985,4.519
+Kuwait,414.0,1985-1990,3.419
+Kuwait,414.0,1990-1995,-4.585
+Kuwait,414.0,1995-2000,3.287
+Kuwait,414.0,2000-2005,3.194
+Kuwait,414.0,2005-2010,6.026
+Kuwait,414.0,2010-2015,4.814
+Lebanon,422.0,1950-1955,2.76
+Lebanon,422.0,1955-1960,3.277
+Lebanon,422.0,1960-1965,2.955
+Lebanon,422.0,1965-1970,1.87
+Lebanon,422.0,1970-1975,2.287
+Lebanon,422.0,1975-1980,0.229
+Lebanon,422.0,1980-1985,0.54
+Lebanon,422.0,1985-1990,0.196
+Lebanon,422.0,1990-1995,2.306
+Lebanon,422.0,1995-2000,1.289
+Lebanon,422.0,2000-2005,4.177
+Lebanon,422.0,2005-2010,1.684
+Lebanon,422.0,2010-2015,5.987
+Oman,512.0,1950-1955,1.656
+Oman,512.0,1955-1960,2.137
+Oman,512.0,1960-1965,2.494
+Oman,512.0,1965-1970,2.936
+Oman,512.0,1970-1975,3.953
+Oman,512.0,1975-1980,5.381
+Oman,512.0,1980-1985,5.217
+Oman,512.0,1985-1990,3.802
+Oman,512.0,1990-1995,3.805
+Oman,512.0,1995-2000,0.429
+Oman,512.0,2000-2005,2.257
+Oman,512.0,2005-2010,3.213
+Oman,512.0,2010-2015,8.446
+Qatar,634.0,1950-1955,7.201
+Qatar,634.0,1955-1960,5.556
+Qatar,634.0,1960-1965,8.823
+Qatar,634.0,1965-1970,7.93
+Qatar,634.0,1970-1975,8.151
+Qatar,634.0,1975-1980,6.17
+Qatar,634.0,1980-1985,10.12
+Qatar,634.0,1985-1990,5.001
+Qatar,634.0,1990-1995,1.004
+Qatar,634.0,1995-2000,3.386
+Qatar,634.0,2000-2005,6.876
+Qatar,634.0,2005-2010,14.929
+Qatar,634.0,2010-2015,4.719
+Saudi Arabia,682.0,1950-1955,2.62
+Saudi Arabia,682.0,1955-1960,2.769
+Saudi Arabia,682.0,1960-1965,3.399
+Saudi Arabia,682.0,1965-1970,3.729
+Saudi Arabia,682.0,1970-1975,4.825
+Saudi Arabia,682.0,1975-1980,5.77
+Saudi Arabia,682.0,1980-1985,5.97
+Saudi Arabia,682.0,1985-1990,4.051
+Saudi Arabia,682.0,1990-1995,2.836
+Saudi Arabia,682.0,1995-2000,2.526
+Saudi Arabia,682.0,2000-2005,2.912
+Saudi Arabia,682.0,2005-2010,2.536
+Saudi Arabia,682.0,2010-2015,2.317
+State of Palestine,275.0,1950-1955,1.164
+State of Palestine,275.0,1955-1960,1.588
+State of Palestine,275.0,1960-1965,2.162
+State of Palestine,275.0,1965-1970,-1.152
+State of Palestine,275.0,1970-1975,3.225
+State of Palestine,275.0,1975-1980,2.657
+State of Palestine,275.0,1980-1985,3.057
+State of Palestine,275.0,1985-1990,3.557
+State of Palestine,275.0,1990-1995,4.401
+State of Palestine,275.0,1995-2000,4.161
+State of Palestine,275.0,2000-2005,2.093
+State of Palestine,275.0,2005-2010,2.563
+State of Palestine,275.0,2010-2015,2.75
+Syrian Arab Republic,760.0,1950-1955,2.778
+Syrian Arab Republic,760.0,1955-1960,3.158
+Syrian Arab Republic,760.0,1960-1965,3.232
+Syrian Arab Republic,760.0,1965-1970,3.338
+Syrian Arab Republic,760.0,1970-1975,3.408
+Syrian Arab Republic,760.0,1975-1980,3.379
+Syrian Arab Republic,760.0,1980-1985,3.497
+Syrian Arab Republic,760.0,1985-1990,3.093
+Syrian Arab Republic,760.0,1990-1995,2.813
+Syrian Arab Republic,760.0,1995-2000,2.64
+Syrian Arab Republic,760.0,2000-2005,2.065
+Syrian Arab Republic,760.0,2005-2010,2.668
+Syrian Arab Republic,760.0,2010-2015,-2.265
+Turkey,792.0,1950-1955,2.655
+Turkey,792.0,1955-1960,2.551
+Turkey,792.0,1960-1965,2.357
+Turkey,792.0,1965-1970,2.296
+Turkey,792.0,1970-1975,2.39
+Turkey,792.0,1975-1980,2.275
+Turkey,792.0,1980-1985,2.268
+Turkey,792.0,1985-1990,1.869
+Turkey,792.0,1990-1995,1.61
+Turkey,792.0,1995-2000,1.551
+Turkey,792.0,2000-2005,1.41
+Turkey,792.0,2005-2010,1.27
+Turkey,792.0,2010-2015,1.685
+United Arab Emirates,784.0,1950-1955,2.68
+United Arab Emirates,784.0,1955-1960,3.037
+United Arab Emirates,784.0,1960-1965,9.687
+United Arab Emirates,784.0,1965-1970,8.974
+United Arab Emirates,784.0,1970-1975,16.277
+United Arab Emirates,784.0,1975-1980,12.983
+United Arab Emirates,784.0,1980-1985,5.676
+United Arab Emirates,784.0,1985-1990,5.874
+United Arab Emirates,784.0,1990-1995,5.207
+United Arab Emirates,784.0,1995-2000,5.214
+United Arab Emirates,784.0,2000-2005,7.698
+United Arab Emirates,784.0,2005-2010,12.395
+United Arab Emirates,784.0,2010-2015,1.894
+Yemen,887.0,1950-1955,1.594
+Yemen,887.0,1955-1960,1.606
+Yemen,887.0,1960-1965,1.681
+Yemen,887.0,1965-1970,1.826
+Yemen,887.0,1970-1975,1.971
+Yemen,887.0,1975-1980,3.416
+Yemen,887.0,1980-1985,3.858
+Yemen,887.0,1985-1990,4.038
+Yemen,887.0,1990-1995,4.88
+Yemen,887.0,1995-2000,3.066
+Yemen,887.0,2000-2005,2.834
+Yemen,887.0,2005-2010,2.805
+Yemen,887.0,2010-2015,2.574
+EUROPE,908.0,1950-1955,0.98
+EUROPE,908.0,1955-1960,0.98
+EUROPE,908.0,1960-1965,0.951
+EUROPE,908.0,1965-1970,0.684
+EUROPE,908.0,1970-1975,0.602
+EUROPE,908.0,1975-1980,0.483
+EUROPE,908.0,1980-1985,0.401
+EUROPE,908.0,1985-1990,0.369
+EUROPE,908.0,1990-1995,0.185
+EUROPE,908.0,1995-2000,-0.038
+EUROPE,908.0,2000-2005,0.071
+EUROPE,908.0,2005-2010,0.174
+EUROPE,908.0,2010-2015,0.083
+Eastern Europe,923.0,1950-1955,1.481
+Eastern Europe,923.0,1955-1960,1.348
+Eastern Europe,923.0,1960-1965,1.04
+Eastern Europe,923.0,1965-1970,0.679
+Eastern Europe,923.0,1970-1975,0.659
+Eastern Europe,923.0,1975-1980,0.647
+Eastern Europe,923.0,1980-1985,0.578
+Eastern Europe,923.0,1985-1990,0.412
+Eastern Europe,923.0,1990-1995,-0.03
+Eastern Europe,923.0,1995-2000,-0.377
+Eastern Europe,923.0,2000-2005,-0.42
+Eastern Europe,923.0,2005-2010,-0.195
+Eastern Europe,923.0,2010-2015,-0.112
+Belarus,112.0,1950-1955,0.151
+Belarus,112.0,1955-1960,0.967
+Belarus,112.0,1960-1965,0.993
+Belarus,112.0,1965-1970,0.98
+Belarus,112.0,1970-1975,0.709
+Belarus,112.0,1975-1980,0.607
+Belarus,112.0,1980-1985,0.685
+Belarus,112.0,1985-1990,0.477
+Belarus,112.0,1990-1995,-0.142
+Belarus,112.0,1995-2000,-0.413
+Belarus,112.0,2000-2005,-0.636
+Belarus,112.0,2005-2010,-0.31
+Belarus,112.0,2010-2015,0.008
+Bulgaria,100.0,1950-1955,0.785
+Bulgaria,100.0,1955-1960,0.844
+Bulgaria,100.0,1960-1965,0.846
+Bulgaria,100.0,1965-1970,0.69
+Bulgaria,100.0,1970-1975,0.54
+Bulgaria,100.0,1975-1980,0.314
+Bulgaria,100.0,1980-1985,0.214
+Bulgaria,100.0,1985-1990,-0.313
+Bulgaria,100.0,1990-1995,-1.078
+Bulgaria,100.0,1995-2000,-0.875
+Bulgaria,100.0,2000-2005,-0.811
+Bulgaria,100.0,2005-2010,-0.73
+Bulgaria,100.0,2010-2015,-0.708
+Czech Republic,203.0,1950-1955,0.987
+Czech Republic,203.0,1955-1960,0.476
+Czech Republic,203.0,1960-1965,0.459
+Czech Republic,203.0,1965-1970,0.021
+Czech Republic,203.0,1970-1975,0.497
+Czech Republic,203.0,1975-1980,0.548
+Czech Republic,203.0,1980-1985,-0.043
+Czech Republic,203.0,1985-1990,0.016
+Czech Republic,203.0,1990-1995,0.023
+Czech Republic,203.0,1995-2000,-0.141
+Czech Republic,203.0,2000-2005,-0.063
+Czech Republic,203.0,2005-2010,0.532
+Czech Republic,203.0,2010-2015,0.069
+Hungary,348.0,1950-1955,1.025
+Hungary,348.0,1955-1960,0.348
+Hungary,348.0,1960-1965,0.336
+Hungary,348.0,1965-1970,0.341
+Hungary,348.0,1970-1975,0.375
+Hungary,348.0,1975-1980,0.409
+Hungary,348.0,1980-1985,-0.349
+Hungary,348.0,1985-1990,-0.359
+Hungary,348.0,1990-1995,-0.064
+Hungary,348.0,1995-2000,-0.249
+Hungary,348.0,2000-2005,-0.252
+Hungary,348.0,2005-2010,-0.162
+Hungary,348.0,2010-2015,-0.321
+Poland,616.0,1950-1955,1.879
+Poland,616.0,1955-1960,1.718
+Poland,616.0,1960-1965,1.191
+Poland,616.0,1965-1970,0.794
+Poland,616.0,1970-1975,0.807
+Poland,616.0,1975-1980,0.924
+Poland,616.0,1980-1985,0.93
+Poland,616.0,1985-1990,0.375
+Poland,616.0,1990-1995,0.207
+Poland,616.0,1995-2000,-0.055
+Poland,616.0,2000-2005,-0.012
+Poland,616.0,2005-2010,0.058
+Poland,616.0,2010-2015,0.019
+Republic of Moldova,498.0,1950-1955,2.305
+Republic of Moldova,498.0,1955-1960,2.679
+Republic of Moldova,498.0,1960-1965,2.097
+Republic of Moldova,498.0,1965-1970,1.495
+Republic of Moldova,498.0,1970-1975,1.316
+Republic of Moldova,498.0,1975-1980,0.871
+Republic of Moldova,498.0,1980-1985,0.998
+Republic of Moldova,498.0,1985-1990,0.696
+Republic of Moldova,498.0,1990-1995,-0.115
+Republic of Moldova,498.0,1995-2000,-0.646
+Republic of Moldova,498.0,2000-2005,-0.208
+Republic of Moldova,498.0,2005-2010,-0.355
+Republic of Moldova,498.0,2010-2015,-0.076
+Romania,642.0,1950-1955,1.481
+Romania,642.0,1955-1960,1.252
+Romania,642.0,1960-1965,0.806
+Romania,642.0,1965-1970,1.172
+Romania,642.0,1970-1975,1.058
+Romania,642.0,1975-1980,0.855
+Romania,642.0,1980-1985,0.43
+Romania,642.0,1985-1990,0.331
+Romania,642.0,1990-1995,-0.451
+Romania,642.0,1995-2000,-0.743
+Romania,642.0,2000-2005,-0.662
+Romania,642.0,2005-2010,-1.064
+Romania,642.0,2010-2015,-0.791
+Russian Federation,643.0,1950-1955,1.599
+Russian Federation,643.0,1955-1960,1.472
+Russian Federation,643.0,1960-1965,1.076
+Russian Federation,643.0,1965-1970,0.568
+Russian Federation,643.0,1970-1975,0.555
+Russian Federation,643.0,1975-1980,0.629
+Russian Federation,643.0,1980-1985,0.699
+Russian Federation,643.0,1985-1990,0.632
+Russian Federation,643.0,1990-1995,0.098
+Russian Federation,643.0,1995-2000,-0.257
+Russian Federation,643.0,2000-2005,-0.383
+Russian Federation,643.0,2005-2010,-0.065
+Russian Federation,643.0,2010-2015,0.042
+Slovakia,703.0,1950-1955,2.077
+Slovakia,703.0,1955-1960,1.634
+Slovakia,703.0,1960-1965,1.134
+Slovakia,703.0,1965-1970,0.688
+Slovakia,703.0,1970-1975,0.917
+Slovakia,703.0,1975-1980,1.004
+Slovakia,703.0,1980-1985,0.667
+Slovakia,703.0,1985-1990,0.459
+Slovakia,703.0,1990-1995,0.32
+Slovakia,703.0,1995-2000,0.086
+Slovakia,703.0,2000-2005,-0.003
+Slovakia,703.0,2005-2010,0.08
+Slovakia,703.0,2010-2015,0.071
+Ukraine,804.0,1950-1955,1.409
+Ukraine,804.0,1955-1960,1.279
+Ukraine,804.0,1960-1965,1.183
+Ukraine,804.0,1965-1970,0.791
+Ukraine,804.0,1970-1975,0.698
+Ukraine,804.0,1975-1980,0.49
+Ukraine,804.0,1980-1985,0.377
+Ukraine,804.0,1985-1990,0.176
+Ukraine,804.0,1990-1995,-0.219
+Ukraine,804.0,1995-2000,-0.83
+Ukraine,804.0,2000-2005,-0.817
+Ukraine,804.0,2005-2010,-0.497
+Ukraine,804.0,2010-2015,-0.364
+Northern Europe,924.0,1950-1955,0.38
+Northern Europe,924.0,1955-1960,0.561
+Northern Europe,924.0,1960-1965,0.732
+Northern Europe,924.0,1965-1970,0.573
+Northern Europe,924.0,1970-1975,0.375
+Northern Europe,924.0,1975-1980,0.196
+Northern Europe,924.0,1980-1985,0.18
+Northern Europe,924.0,1985-1990,0.306
+Northern Europe,924.0,1990-1995,0.24
+Northern Europe,924.0,1995-2000,0.265
+Northern Europe,924.0,2000-2005,0.386
+Northern Europe,924.0,2005-2010,0.703
+Northern Europe,924.0,2010-2015,0.53
+Channel Islands,830.0,1950-1955,0.649
+Channel Islands,830.0,1955-1960,0.709
+Channel Islands,830.0,1960-1965,0.994
+Channel Islands,830.0,1965-1970,1.051
+Channel Islands,830.0,1970-1975,0.844
+Channel Islands,830.0,1975-1980,0.282
+Channel Islands,830.0,1980-1985,0.854
+Channel Islands,830.0,1985-1990,1.001
+Channel Islands,830.0,1990-1995,0.475
+Channel Islands,830.0,1995-2000,0.639
+Channel Islands,830.0,2000-2005,0.736
+Channel Islands,830.0,2005-2010,0.674
+Channel Islands,830.0,2010-2015,0.508
+Denmark,208.0,1950-1955,0.787
+Denmark,208.0,1955-1960,0.626
+Denmark,208.0,1960-1965,0.769
+Denmark,208.0,1965-1970,0.701
+Denmark,208.0,1970-1975,0.525
+Denmark,208.0,1975-1980,0.244
+Denmark,208.0,1980-1985,-0.039
+Denmark,208.0,1985-1990,0.105
+Denmark,208.0,1990-1995,0.356
+Denmark,208.0,1995-2000,0.4
+Denmark,208.0,2000-2005,0.295
+Denmark,208.0,2005-2010,0.486
+Denmark,208.0,2010-2015,0.421
+Estonia,233.0,1950-1955,1.031
+Estonia,233.0,1955-1960,0.97
+Estonia,233.0,1960-1965,1.175
+Estonia,233.0,1965-1970,1.054
+Estonia,233.0,1970-1975,0.889
+Estonia,233.0,1975-1980,0.724
+Estonia,233.0,1980-1985,0.641
+Estonia,233.0,1985-1990,0.555
+Estonia,233.0,1990-1995,-1.765
+Estonia,233.0,1995-2000,-0.479
+Estonia,233.0,2000-2005,-0.631
+Estonia,233.0,2005-2010,-0.351
+Estonia,233.0,2010-2015,-0.295
+Faeroe Islands,234.0,1950-1955,0.198
+Faeroe Islands,234.0,1955-1960,1.482
+Faeroe Islands,234.0,1960-1965,1.188
+Faeroe Islands,234.0,1965-1970,1.187
+Faeroe Islands,234.0,1970-1975,0.982
+Faeroe Islands,234.0,1975-1980,1.188
+Faeroe Islands,234.0,1980-1985,1.274
+Faeroe Islands,234.0,1985-1990,0.934
+Faeroe Islands,234.0,1990-1995,-1.708
+Faeroe Islands,234.0,1995-2000,1.056
+Faeroe Islands,234.0,2000-2005,0.779
+Faeroe Islands,234.0,2005-2010,0.095
+Faeroe Islands,234.0,2010-2015,-0.152
+Finland,246.0,1950-1955,1.102
+Finland,246.0,1955-1960,0.899
+Finland,246.0,1960-1965,0.598
+Finland,246.0,1965-1970,0.183
+Finland,246.0,1970-1975,0.45
+Finland,246.0,1975-1980,0.287
+Finland,246.0,1980-1985,0.507
+Finland,246.0,1985-1990,0.342
+Finland,246.0,1990-1995,0.481
+Finland,246.0,1995-2000,0.266
+Finland,246.0,2000-2005,0.268
+Finland,246.0,2005-2010,0.457
+Finland,246.0,2010-2015,0.5
+Iceland,352.0,1950-1955,1.99
+Iceland,352.0,1955-1960,2.156
+Iceland,352.0,1960-1965,1.821
+Iceland,352.0,1965-1970,1.225
+Iceland,352.0,1970-1975,1.285
+Iceland,352.0,1975-1980,0.912
+Iceland,352.0,1980-1985,1.132
+Iceland,352.0,1985-1990,1.082
+Iceland,352.0,1990-1995,0.967
+Iceland,352.0,1995-2000,1.003
+Iceland,352.0,2000-2005,1.075
+Iceland,352.0,2005-2010,1.386
+Iceland,352.0,2010-2015,0.703
+Ireland,372.0,1950-1955,-0.097
+Ireland,372.0,1955-1960,-0.56
+Ireland,372.0,1960-1965,0.268
+Ireland,372.0,1965-1970,0.622
+Ireland,372.0,1970-1975,1.525
+Ireland,372.0,1975-1980,1.515
+Ireland,372.0,1980-1985,0.739
+Ireland,372.0,1985-1990,0.016
+Ireland,372.0,1990-1995,0.456
+Ireland,372.0,1995-2000,1.049
+Ireland,372.0,2000-2005,1.802
+Ireland,372.0,2005-2010,1.877
+Ireland,372.0,2010-2015,0.306
+Isle of Man,833.0,1950-1955,-1.057
+Isle of Man,833.0,1955-1960,-1.575
+Isle of Man,833.0,1960-1965,0.917
+Isle of Man,833.0,1965-1970,2.236
+Isle of Man,833.0,1970-1975,1.438
+Isle of Man,833.0,1975-1980,1.323
+Isle of Man,833.0,1980-1985,-0.204
+Isle of Man,833.0,1985-1990,1.742
+Isle of Man,833.0,1990-1995,0.525
+Isle of Man,833.0,1995-2000,1.242
+Isle of Man,833.0,2000-2005,0.901
+Isle of Man,833.0,2005-2010,0.967
+Isle of Man,833.0,2010-2015,0.803
+Latvia,428.0,1950-1955,0.666
+Latvia,428.0,1955-1960,1.132
+Latvia,428.0,1960-1965,1.174
+Latvia,428.0,1965-1970,0.903
+Latvia,428.0,1970-1975,0.757
+Latvia,428.0,1975-1980,0.454
+Latvia,428.0,1980-1985,0.539
+Latvia,428.0,1985-1990,0.625
+Latvia,428.0,1990-1995,-1.367
+Latvia,428.0,1995-2000,-0.959
+Latvia,428.0,2000-2005,-1.252
+Latvia,428.0,2005-2010,-1.27
+Latvia,428.0,2010-2015,-1.182
+Lithuania,440.0,1950-1955,0.479
+Lithuania,440.0,1955-1960,1.046
+Lithuania,440.0,1960-1965,1.368
+Lithuania,440.0,1965-1970,1.117
+Lithuania,440.0,1970-1975,1.01
+Lithuania,440.0,1975-1980,0.785
+Lithuania,440.0,1980-1985,0.754
+Lithuania,440.0,1985-1990,0.736
+Lithuania,440.0,1990-1995,-0.378
+Lithuania,440.0,1995-2000,-0.797
+Lithuania,440.0,2000-2005,-0.838
+Lithuania,440.0,2005-2010,-1.364
+Lithuania,440.0,2010-2015,-1.63
+Norway,578.0,1950-1955,0.981
+Norway,578.0,1955-1960,0.871
+Norway,578.0,1960-1965,0.778
+Norway,578.0,1965-1970,0.798
+Norway,578.0,1970-1975,0.662
+Norway,578.0,1975-1980,0.377
+Norway,578.0,1980-1985,0.32
+Norway,578.0,1985-1990,0.439
+Norway,578.0,1990-1995,0.555
+Norway,578.0,1995-2000,0.596
+Norway,578.0,2000-2005,0.583
+Norway,578.0,2005-2010,1.122
+Norway,578.0,2010-2015,1.266
+Sweden,752.0,1950-1955,0.7
+Sweden,752.0,1955-1960,0.597
+Sweden,752.0,1960-1965,0.687
+Sweden,752.0,1965-1970,0.78
+Sweden,752.0,1970-1975,0.354
+Sweden,752.0,1975-1980,0.287
+Sweden,752.0,1980-1985,0.096
+Sweden,752.0,1985-1990,0.493
+Sweden,752.0,1990-1995,0.616
+Sweden,752.0,1995-2000,0.103
+Sweden,752.0,2000-2005,0.353
+Sweden,752.0,2005-2010,0.765
+Sweden,752.0,2010-2015,0.829
+United Kingdom,826.0,1950-1955,0.196
+United Kingdom,826.0,1955-1960,0.501
+United Kingdom,826.0,1960-1965,0.7
+United Kingdom,826.0,1965-1970,0.485
+United Kingdom,826.0,1970-1975,0.203
+United Kingdom,826.0,1975-1980,0.015
+United Kingdom,826.0,1980-1985,0.069
+United Kingdom,826.0,1985-1990,0.245
+United Kingdom,826.0,1990-1995,0.276
+United Kingdom,826.0,1995-2000,0.33
+United Kingdom,826.0,2000-2005,0.451
+United Kingdom,826.0,2005-2010,0.816
+United Kingdom,826.0,2010-2015,0.628
+Southern Europe,925.0,1950-1955,0.857
+Southern Europe,925.0,1955-1960,0.777
+Southern Europe,925.0,1960-1965,0.853
+Southern Europe,925.0,1965-1970,0.735
+Southern Europe,925.0,1970-1975,0.865
+Southern Europe,925.0,1975-1980,0.771
+Southern Europe,925.0,1980-1985,0.466
+Southern Europe,925.0,1985-1990,0.23
+Southern Europe,925.0,1990-1995,0.103
+Southern Europe,925.0,1995-2000,0.126
+Southern Europe,925.0,2000-2005,0.635
+Southern Europe,925.0,2005-2010,0.478
+Southern Europe,925.0,2010-2015,-0.132
+Albania,8.0,1950-1955,2.34
+Albania,8.0,1955-1960,2.833
+Albania,8.0,1960-1965,2.951
+Albania,8.0,1965-1970,2.519
+Albania,8.0,1970-1975,2.288
+Albania,8.0,1975-1980,2.123
+Albania,8.0,1980-1985,2.024
+Albania,8.0,1985-1990,2.016
+Albania,8.0,1990-1995,-1.094
+Albania,8.0,1995-2000,0.098
+Albania,8.0,2000-2005,-0.257
+Albania,8.0,2005-2010,-1.205
+Albania,8.0,2010-2015,-0.036
+Andorra,20.0,1950-1955,7.979
+Andorra,20.0,1955-1960,7.466
+Andorra,20.0,1960-1965,6.484
+Andorra,20.0,1965-1970,5.382
+Andorra,20.0,1970-1975,4.697
+Andorra,20.0,1975-1980,3.216
+Andorra,20.0,1980-1985,4.248
+Andorra,20.0,1985-1990,4.015
+Andorra,20.0,1990-1995,3.164
+Andorra,20.0,1995-2000,0.478
+Andorra,20.0,2000-2005,4.334
+Andorra,20.0,2005-2010,0.772
+Andorra,20.0,2010-2015,-3.611
+Bosnia and Herzegovina,70.0,1950-1955,1.936
+Bosnia and Herzegovina,70.0,1955-1960,1.841
+Bosnia and Herzegovina,70.0,1960-1965,1.842
+Bosnia and Herzegovina,70.0,1965-1970,1.217
+Bosnia and Herzegovina,70.0,1970-1975,1.172
+Bosnia and Herzegovina,70.0,1975-1980,0.853
+Bosnia and Herzegovina,70.0,1980-1985,1.056
+Bosnia and Herzegovina,70.0,1985-1990,0.708
+Bosnia and Herzegovina,70.0,1990-1995,-3.088
+Bosnia and Herzegovina,70.0,1995-2000,-0.45
+Bosnia and Herzegovina,70.0,2000-2005,0.212
+Bosnia and Herzegovina,70.0,2005-2010,0.01
+Bosnia and Herzegovina,70.0,2010-2015,-0.13
+Croatia,191.0,1950-1955,0.914
+Croatia,191.0,1955-1960,0.789
+Croatia,191.0,1960-1965,0.64
+Croatia,191.0,1965-1970,0.43
+Croatia,191.0,1970-1975,0.349
+Croatia,191.0,1975-1980,0.428
+Croatia,191.0,1980-1985,0.507
+Croatia,191.0,1985-1990,0.254
+Croatia,191.0,1990-1995,-0.68
+Croatia,191.0,1995-2000,-0.835
+Croatia,191.0,2000-2005,-0.227
+Croatia,191.0,2005-2010,-0.284
+Croatia,191.0,2010-2015,-0.356
+Gibraltar,292.0,1950-1955,0.505
+Gibraltar,292.0,1955-1960,0.477
+Gibraltar,292.0,1960-1965,1.543
+Gibraltar,292.0,1965-1970,1.173
+Gibraltar,292.0,1970-1975,0.624
+Gibraltar,292.0,1975-1980,0.865
+Gibraltar,292.0,1980-1985,0.032
+Gibraltar,292.0,1985-1990,0.166
+Gibraltar,292.0,1990-1995,0.334
+Gibraltar,292.0,1995-2000,0.048
+Gibraltar,292.0,2000-2005,1.226
+Gibraltar,292.0,2005-2010,1.105
+Gibraltar,292.0,2010-2015,0.944
+Greece,300.0,1950-1955,0.953
+Greece,300.0,1955-1960,0.926
+Greece,300.0,1960-1965,0.529
+Greece,300.0,1965-1970,0.565
+Greece,300.0,1970-1975,0.565
+Greece,300.0,1975-1980,1.266
+Greece,300.0,1980-1985,0.589
+Greece,300.0,1985-1990,0.447
+Greece,300.0,1990-1995,0.981
+Greece,300.0,1995-2000,0.58
+Greece,300.0,2000-2005,0.21
+Greece,300.0,2005-2010,0.194
+Greece,300.0,2010-2015,-0.403
+Holy See,336.0,1950-1955,0.0
+Holy See,336.0,1955-1960,0.022
+Holy See,336.0,1960-1965,-1.159
+Holy See,336.0,1965-1970,-5.544
+Holy See,336.0,1970-1975,2.356
+Holy See,336.0,1975-1980,-0.082
+Holy See,336.0,1980-1985,0.57
+Holy See,336.0,1985-1990,0.607
+Holy See,336.0,1990-1995,0.284
+Holy See,336.0,1995-2000,0.153
+Holy See,336.0,2000-2005,0.278
+Holy See,336.0,2005-2010,0.025
+Holy See,336.0,2010-2015,0.025
+Italy,380.0,1950-1955,0.738
+Italy,380.0,1955-1960,0.556
+Italy,380.0,1960-1965,0.78
+Italy,380.0,1965-1970,0.696
+Italy,380.0,1970-1975,0.642
+Italy,380.0,1975-1980,0.383
+Italy,380.0,1980-1985,0.203
+Italy,380.0,1985-1990,0.034
+Italy,380.0,1990-1995,0.039
+Italy,380.0,1995-2000,0.009
+Italy,380.0,2000-2005,0.522
+Italy,380.0,2005-2010,0.315
+Italy,380.0,2010-2015,0.07
+Malta,470.0,1950-1955,0.123
+Malta,470.0,1955-1960,-0.072
+Malta,470.0,1960-1965,-0.425
+Malta,470.0,1965-1970,-0.118
+Malta,470.0,1970-1975,0.208
+Malta,470.0,1975-1980,0.784
+Malta,470.0,1980-1985,1.121
+Malta,470.0,1985-1990,1.001
+Malta,470.0,1990-1995,0.917
+Malta,470.0,1995-2000,0.779
+Malta,470.0,2000-2005,0.506
+Malta,470.0,2005-2010,0.74
+Malta,470.0,2010-2015,0.318
+Montenegro,499.0,1950-1955,2.343
+Montenegro,499.0,1955-1960,1.875
+Montenegro,499.0,1960-1965,1.819
+Montenegro,499.0,1965-1970,-0.536
+Montenegro,499.0,1970-1975,1.288
+Montenegro,499.0,1975-1980,0.934
+Montenegro,499.0,1980-1985,1.114
+Montenegro,499.0,1985-1990,0.032
+Montenegro,499.0,1990-1995,0.175
+Montenegro,499.0,1995-2000,-0.222
+Montenegro,499.0,2000-2005,0.092
+Montenegro,499.0,2005-2010,0.18
+Montenegro,499.0,2010-2015,0.123
+Portugal,620.0,1950-1955,0.573
+Portugal,620.0,1955-1960,0.488
+Portugal,620.0,1960-1965,0.03
+Portugal,620.0,1965-1970,-0.497
+Portugal,620.0,1970-1975,1.155
+Portugal,620.0,1975-1980,1.204
+Portugal,620.0,1980-1985,0.352
+Portugal,620.0,1985-1990,-0.078
+Portugal,620.0,1990-1995,0.377
+Portugal,620.0,1995-2000,0.393
+Portugal,620.0,2000-2005,0.388
+Portugal,620.0,2005-2010,0.199
+Portugal,620.0,2010-2015,-0.449
+San Marino,674.0,1950-1955,1.486
+San Marino,674.0,1955-1960,2.233
+San Marino,674.0,1960-1965,2.497
+San Marino,674.0,1965-1970,1.856
+San Marino,674.0,1970-1975,0.613
+San Marino,674.0,1975-1980,1.588
+San Marino,674.0,1980-1985,1.221
+San Marino,674.0,1985-1990,1.144
+San Marino,674.0,1990-1995,1.467
+San Marino,674.0,1995-2000,1.16
+San Marino,674.0,2000-2005,1.287
+San Marino,674.0,2005-2010,0.967
+San Marino,674.0,2010-2015,0.699
+Serbia,688.0,1950-1955,1.44
+Serbia,688.0,1955-1960,0.87
+Serbia,688.0,1960-1965,0.723
+Serbia,688.0,1965-1970,0.714
+Serbia,688.0,1970-1975,0.908
+Serbia,688.0,1975-1980,0.945
+Serbia,688.0,1980-1985,0.76
+Serbia,688.0,1985-1990,0.563
+Serbia,688.0,1990-1995,0.756
+Serbia,688.0,1995-2000,-0.87
+Serbia,688.0,2000-2005,-0.593
+Serbia,688.0,2005-2010,-0.28
+Serbia,688.0,2010-2015,-0.465
+Slovenia,705.0,1950-1955,0.721
+Slovenia,705.0,1955-1960,0.763
+Slovenia,705.0,1960-1965,0.532
+Slovenia,705.0,1965-1970,0.487
+Slovenia,705.0,1970-1975,0.856
+Slovenia,705.0,1975-1980,1.042
+Slovenia,705.0,1980-1985,1.157
+Slovenia,705.0,1985-1990,0.621
+Slovenia,705.0,1990-1995,-0.15
+Slovenia,705.0,1995-2000,-0.028
+Slovenia,705.0,2000-2005,0.079
+Slovenia,705.0,2005-2010,0.553
+Slovenia,705.0,2010-2015,0.146
+Spain,724.0,1950-1955,0.721
+Spain,724.0,1955-1960,0.907
+Spain,724.0,1960-1965,1.112
+Spain,724.0,1965-1970,1.048
+Spain,724.0,1970-1975,1.138
+Spain,724.0,1975-1980,0.976
+Spain,724.0,1980-1985,0.539
+Spain,724.0,1985-1990,0.235
+Spain,724.0,1990-1995,0.29
+Spain,724.0,1995-2000,0.49
+Spain,724.0,2000-2005,1.469
+Spain,724.0,2005-2010,1.215
+Spain,724.0,2010-2015,-0.207
+TFYR Macedonia,807.0,1950-1955,2.087
+TFYR Macedonia,807.0,1955-1960,1.336
+TFYR Macedonia,807.0,1960-1965,1.348
+TFYR Macedonia,807.0,1965-1970,1.55
+TFYR Macedonia,807.0,1970-1975,0.933
+TFYR Macedonia,807.0,1975-1980,1.301
+TFYR Macedonia,807.0,1980-1985,0.587
+TFYR Macedonia,807.0,1985-1990,0.148
+TFYR Macedonia,807.0,1990-1995,-0.432
+TFYR Macedonia,807.0,1995-2000,0.59
+TFYR Macedonia,807.0,2000-2005,0.304
+TFYR Macedonia,807.0,2005-2010,0.19
+TFYR Macedonia,807.0,2010-2015,0.155
+Western Europe,926.0,1950-1955,0.609
+Western Europe,926.0,1955-1960,0.758
+Western Europe,926.0,1960-1965,0.996
+Western Europe,926.0,1965-1970,0.712
+Western Europe,926.0,1970-1975,0.422
+Western Europe,926.0,1975-1980,0.123
+Western Europe,926.0,1980-1985,0.152
+Western Europe,926.0,1985-1990,0.44
+Western Europe,926.0,1990-1995,0.594
+Western Europe,926.0,1995-2000,0.248
+Western Europe,926.0,2000-2005,0.259
+Western Europe,926.0,2005-2010,0.237
+Western Europe,926.0,2010-2015,0.32
+Austria,40.0,1950-1955,0.038
+Austria,40.0,1955-1960,0.331
+Austria,40.0,1960-1965,0.65
+Austria,40.0,1965-1970,0.57
+Austria,40.0,1970-1975,0.313
+Austria,40.0,1975-1980,-0.081
+Austria,40.0,1980-1985,0.009
+Austria,40.0,1985-1990,0.277
+Austria,40.0,1990-1995,0.679
+Austria,40.0,1995-2000,0.195
+Austria,40.0,2000-2005,0.452
+Austria,40.0,2005-2010,0.378
+Austria,40.0,2010-2015,0.36
+Belgium,56.0,1950-1955,0.554
+Belgium,56.0,1955-1960,0.599
+Belgium,56.0,1960-1965,0.645
+Belgium,56.0,1965-1970,0.469
+Belgium,56.0,1970-1975,0.215
+Belgium,56.0,1975-1980,0.177
+Belgium,56.0,1980-1985,0.076
+Belgium,56.0,1985-1990,0.171
+Belgium,56.0,1990-1995,0.365
+Belgium,56.0,1995-2000,0.208
+Belgium,56.0,2000-2005,0.563
+Belgium,56.0,2005-2010,0.686
+Belgium,56.0,2010-2015,0.664
+France,250.0,1950-1955,0.772
+France,250.0,1955-1960,1.046
+France,250.0,1960-1965,1.303
+France,250.0,1965-1970,0.758
+France,250.0,1970-1975,0.835
+France,250.0,1975-1980,0.389
+France,250.0,1980-1985,0.485
+France,250.0,1985-1990,0.557
+France,250.0,1990-1995,0.445
+France,250.0,1995-2000,0.396
+France,250.0,2000-2005,0.615
+France,250.0,2005-2010,0.554
+France,250.0,2010-2015,0.45
+Germany,276.0,1950-1955,0.433
+Germany,276.0,1955-1960,0.517
+Germany,276.0,1960-1965,0.754
+Germany,276.0,1965-1970,0.616
+Germany,276.0,1970-1975,0.077
+Germany,276.0,1975-1980,-0.13
+Germany,276.0,1980-1985,-0.151
+Germany,276.0,1985-1990,0.355
+Germany,276.0,1990-1995,0.661
+Germany,276.0,1995-2000,0.069
+Germany,276.0,2000-2005,-0.159
+Germany,276.0,2005-2010,-0.201
+Germany,276.0,2010-2015,0.063
+Liechtenstein,438.0,1950-1955,1.501
+Liechtenstein,438.0,1955-1960,2.14
+Liechtenstein,438.0,1960-1965,2.442
+Liechtenstein,438.0,1965-1970,2.628
+Liechtenstein,438.0,1970-1975,1.942
+Liechtenstein,438.0,1975-1980,1.976
+Liechtenstein,438.0,1980-1985,1.047
+Liechtenstein,438.0,1985-1990,1.062
+Liechtenstein,438.0,1990-1995,1.402
+Liechtenstein,438.0,1995-2000,1.529
+Liechtenstein,438.0,2000-2005,0.922
+Liechtenstein,438.0,2005-2010,0.801
+Liechtenstein,438.0,2010-2015,0.68
+Luxembourg,442.0,1950-1955,0.616
+Luxembourg,442.0,1955-1960,0.602
+Luxembourg,442.0,1960-1965,0.967
+Luxembourg,442.0,1965-1970,0.568
+Luxembourg,442.0,1970-1975,0.825
+Luxembourg,442.0,1975-1980,0.56
+Luxembourg,442.0,1980-1985,0.155
+Luxembourg,442.0,1985-1990,0.796
+Luxembourg,442.0,1990-1995,1.335
+Luxembourg,442.0,1995-2000,1.325
+Luxembourg,442.0,2000-2005,0.973
+Luxembourg,442.0,2005-2010,2.075
+Luxembourg,442.0,2010-2015,2.206
+Monaco,492.0,1950-1955,-0.345
+Monaco,492.0,1955-1960,2.66
+Monaco,492.0,1960-1965,0.725
+Monaco,492.0,1965-1970,0.172
+Monaco,492.0,1970-1975,1.411
+Monaco,492.0,1975-1980,1.19
+Monaco,492.0,1980-1985,1.505
+Monaco,492.0,1985-1990,0.413
+Monaco,492.0,1990-1995,0.84
+Monaco,492.0,1995-2000,0.88
+Monaco,492.0,2000-2005,1.049
+Monaco,492.0,2005-2010,1.72
+Monaco,492.0,2010-2015,0.475
+Netherlands,528.0,1950-1955,1.263
+Netherlands,528.0,1955-1960,1.336
+Netherlands,528.0,1960-1965,1.35
+Netherlands,528.0,1965-1970,1.19
+Netherlands,528.0,1970-1975,0.973
+Netherlands,528.0,1975-1980,0.71
+Netherlands,528.0,1980-1985,0.516
+Netherlands,528.0,1985-1990,0.604
+Netherlands,528.0,1990-1995,0.706
+Netherlands,528.0,1995-2000,0.566
+Netherlands,528.0,2000-2005,0.543
+Netherlands,528.0,2005-2010,0.364
+Netherlands,528.0,2010-2015,0.35
+Switzerland,756.0,1950-1955,1.257
+Switzerland,756.0,1955-1960,1.268
+Switzerland,756.0,1960-1965,1.921
+Switzerland,756.0,1965-1970,1.132
+Switzerland,756.0,1970-1975,0.597
+Switzerland,756.0,1975-1980,-0.166
+Switzerland,756.0,1980-1985,0.477
+Switzerland,756.0,1985-1990,0.665
+Switzerland,756.0,1990-1995,1.003
+Switzerland,756.0,1995-2000,0.419
+Switzerland,756.0,2000-2005,0.667
+Switzerland,756.0,2005-2010,1.108
+Switzerland,756.0,2010-2015,1.161
+LATIN AMERICA AND THE CARIBBEAN,904.0,1950-1955,2.695
+LATIN AMERICA AND THE CARIBBEAN,904.0,1955-1960,2.705
+LATIN AMERICA AND THE CARIBBEAN,904.0,1960-1965,2.756
+LATIN AMERICA AND THE CARIBBEAN,904.0,1965-1970,2.557
+LATIN AMERICA AND THE CARIBBEAN,904.0,1970-1975,2.433
+LATIN AMERICA AND THE CARIBBEAN,904.0,1975-1980,2.273
+LATIN AMERICA AND THE CARIBBEAN,904.0,1980-1985,2.123
+LATIN AMERICA AND THE CARIBBEAN,904.0,1985-1990,1.924
+LATIN AMERICA AND THE CARIBBEAN,904.0,1990-1995,1.732
+LATIN AMERICA AND THE CARIBBEAN,904.0,1995-2000,1.561
+LATIN AMERICA AND THE CARIBBEAN,904.0,2000-2005,1.355
+LATIN AMERICA AND THE CARIBBEAN,904.0,2005-2010,1.238
+LATIN AMERICA AND THE CARIBBEAN,904.0,2010-2015,1.12
+Caribbean,915.0,1950-1955,1.922
+Caribbean,915.0,1955-1960,1.951
+Caribbean,915.0,1960-1965,2.16
+Caribbean,915.0,1965-1970,1.834
+Caribbean,915.0,1970-1975,1.757
+Caribbean,915.0,1975-1980,1.478
+Caribbean,915.0,1980-1985,1.409
+Caribbean,915.0,1985-1990,1.379
+Caribbean,915.0,1990-1995,1.234
+Caribbean,915.0,1995-2000,1.039
+Caribbean,915.0,2000-2005,0.875
+Caribbean,915.0,2005-2010,0.78
+Caribbean,915.0,2010-2015,0.744
+Anguilla,660.0,1950-1955,2.132
+Anguilla,660.0,1955-1960,0.574
+Anguilla,660.0,1960-1965,0.838
+Anguilla,660.0,1965-1970,0.914
+Anguilla,660.0,1970-1975,0.706
+Anguilla,660.0,1975-1980,0.204
+Anguilla,660.0,1980-1985,-0.108
+Anguilla,660.0,1985-1990,4.478
+Anguilla,660.0,1990-1995,3.255
+Anguilla,660.0,1995-2000,2.425
+Anguilla,660.0,2000-2005,2.646
+Anguilla,660.0,2005-2010,1.714
+Anguilla,660.0,2010-2015,1.193
+Antigua and Barbuda,28.0,1950-1955,2.555
+Antigua and Barbuda,28.0,1955-1960,0.772
+Antigua and Barbuda,28.0,1960-1965,1.741
+Antigua and Barbuda,28.0,1965-1970,1.83
+Antigua and Barbuda,28.0,1970-1975,1.154
+Antigua and Barbuda,28.0,1975-1980,0.3
+Antigua and Barbuda,28.0,1980-1985,-1.34
+Antigua and Barbuda,28.0,1985-1990,-1.203
+Antigua and Barbuda,28.0,1990-1995,1.98
+Antigua and Barbuda,28.0,1995-2000,2.551
+Antigua and Barbuda,28.0,2000-2005,1.228
+Antigua and Barbuda,28.0,2005-2010,1.1
+Antigua and Barbuda,28.0,2010-2015,1.025
+Aruba,533.0,1950-1955,2.773
+Aruba,533.0,1955-1960,4.297
+Aruba,533.0,1960-1965,1.13
+Aruba,533.0,1965-1970,0.586
+Aruba,533.0,1970-1975,0.531
+Aruba,533.0,1975-1980,-0.185
+Aruba,533.0,1980-1985,0.953
+Aruba,533.0,1985-1990,-0.281
+Aruba,533.0,1990-1995,5.131
+Aruba,533.0,1995-2000,2.464
+Aruba,533.0,2000-2005,1.924
+Aruba,533.0,2005-2010,0.311
+Aruba,533.0,2010-2015,0.446
+Bahamas,44.0,1950-1955,2.276
+Bahamas,44.0,1955-1960,4.236
+Bahamas,44.0,1960-1965,4.917
+Bahamas,44.0,1965-1970,3.8
+Bahamas,44.0,1970-1975,2.182
+Bahamas,44.0,1975-1980,2.182
+Bahamas,44.0,1980-1985,2.16
+Bahamas,44.0,1985-1990,1.765
+Bahamas,44.0,1990-1995,1.777
+Bahamas,44.0,1995-2000,1.228
+Bahamas,44.0,2000-2005,2.001
+Bahamas,44.0,2005-2010,1.832
+Bahamas,44.0,2010-2015,1.453
+Barbados,52.0,1950-1955,1.469
+Barbados,52.0,1955-1960,0.337
+Barbados,52.0,1960-1965,0.381
+Barbados,52.0,1965-1970,0.293
+Barbados,52.0,1970-1975,0.593
+Barbados,52.0,1975-1980,0.495
+Barbados,52.0,1980-1985,0.294
+Barbados,52.0,1985-1990,0.344
+Barbados,52.0,1990-1995,0.349
+Barbados,52.0,1995-2000,0.365
+Barbados,52.0,2000-2005,0.307
+Barbados,52.0,2005-2010,0.401
+Barbados,52.0,2010-2015,0.33
+British Virgin Islands,92.0,1950-1955,0.645
+British Virgin Islands,92.0,1955-1960,0.893
+British Virgin Islands,92.0,1960-1965,1.846
+British Virgin Islands,92.0,1965-1970,2.127
+British Virgin Islands,92.0,1970-1975,1.33
+British Virgin Islands,92.0,1975-1980,0.982
+British Virgin Islands,92.0,1980-1985,3.804
+British Virgin Islands,92.0,1985-1990,4.25
+British Virgin Islands,92.0,1990-1995,2.257
+British Virgin Islands,92.0,1995-2000,2.273
+British Virgin Islands,92.0,2000-2005,2.309
+British Virgin Islands,92.0,2005-2010,3.225
+British Virgin Islands,92.0,2010-2015,2.021
+Caribbean Netherlands,535.0,1950-1955,1.477
+Caribbean Netherlands,535.0,1955-1960,1.034
+Caribbean Netherlands,535.0,1960-1965,2.453
+Caribbean Netherlands,535.0,1965-1970,2.526
+Caribbean Netherlands,535.0,1970-1975,1.25
+Caribbean Netherlands,535.0,1975-1980,0.317
+Caribbean Netherlands,535.0,1980-1985,1.419
+Caribbean Netherlands,535.0,1985-1990,1.577
+Caribbean Netherlands,535.0,1990-1995,2.981
+Caribbean Netherlands,535.0,1995-2000,-0.971
+Caribbean Netherlands,535.0,2000-2005,0.017
+Caribbean Netherlands,535.0,2005-2010,7.488
+Caribbean Netherlands,535.0,2010-2015,3.431
+Cayman Islands,136.0,1950-1955,0.804
+Cayman Islands,136.0,1955-1960,3.283
+Cayman Islands,136.0,1960-1965,1.242
+Cayman Islands,136.0,1965-1970,1.766
+Cayman Islands,136.0,1970-1975,5.829
+Cayman Islands,136.0,1975-1980,5.565
+Cayman Islands,136.0,1980-1985,3.562
+Cayman Islands,136.0,1985-1990,5.167
+Cayman Islands,136.0,1990-1995,4.724
+Cayman Islands,136.0,1995-2000,5.494
+Cayman Islands,136.0,2000-2005,3.079
+Cayman Islands,136.0,2005-2010,2.649
+Cayman Islands,136.0,2010-2015,1.545
+Cuba,192.0,1950-1955,1.99
+Cuba,192.0,1955-1960,1.76
+Cuba,192.0,1960-1965,2.151
+Cuba,192.0,1965-1970,1.833
+Cuba,192.0,1970-1975,1.595
+Cuba,192.0,1975-1980,0.823
+Cuba,192.0,1980-1985,0.498
+Cuba,192.0,1985-1990,0.966
+Cuba,192.0,1990-1995,0.603
+Cuba,192.0,1995-2000,0.383
+Cuba,192.0,2000-2005,0.258
+Cuba,192.0,2005-2010,0.083
+Cuba,192.0,2010-2015,0.144
+Curaçao,531.0,1950-1955,3.089
+Curaçao,531.0,1955-1960,1.645
+Curaçao,531.0,1960-1965,1.064
+Curaçao,531.0,1965-1970,1.407
+Curaçao,531.0,1970-1975,0.902
+Curaçao,531.0,1975-1980,-0.304
+Curaçao,531.0,1980-1985,0.319
+Curaçao,531.0,1985-1990,-0.498
+Curaçao,531.0,1990-1995,-0.384
+Curaçao,531.0,1995-2000,-1.709
+Curaçao,531.0,2000-2005,-0.413
+Curaçao,531.0,2005-2010,2.633
+Curaçao,531.0,2010-2015,1.26
+Dominica,212.0,1950-1955,1.309
+Dominica,212.0,1955-1960,1.907
+Dominica,212.0,1960-1965,1.607
+Dominica,212.0,1965-1970,1.776
+Dominica,212.0,1970-1975,0.284
+Dominica,212.0,1975-1980,0.874
+Dominica,212.0,1980-1985,-0.449
+Dominica,212.0,1985-1990,-0.75
+Dominica,212.0,1990-1995,0.123
+Dominica,212.0,1995-2000,-0.479
+Dominica,212.0,2000-2005,0.246
+Dominica,212.0,2005-2010,0.176
+Dominica,212.0,2010-2015,0.421
+Dominican Republic,214.0,1950-1955,3.241
+Dominican Republic,214.0,1955-1960,3.389
+Dominican Republic,214.0,1960-1965,3.269
+Dominican Republic,214.0,1965-1970,2.984
+Dominican Republic,214.0,1970-1975,2.684
+Dominican Republic,214.0,1975-1980,2.409
+Dominican Republic,214.0,1980-1985,2.213
+Dominican Republic,214.0,1985-1990,2.034
+Dominican Republic,214.0,1990-1995,1.882
+Dominican Republic,214.0,1995-2000,1.63
+Dominican Republic,214.0,2000-2005,1.517
+Dominican Republic,214.0,2005-2010,1.381
+Dominican Republic,214.0,2010-2015,1.235
+Grenada,308.0,1950-1955,1.104
+Grenada,308.0,1955-1960,2.069
+Grenada,308.0,1960-1965,1.023
+Grenada,308.0,1965-1970,-0.032
+Grenada,308.0,1970-1975,-0.423
+Grenada,308.0,1975-1980,-0.76
+Grenada,308.0,1980-1985,2.311
+Grenada,308.0,1985-1990,-0.738
+Grenada,308.0,1990-1995,0.807
+Grenada,308.0,1995-2000,0.271
+Grenada,308.0,2000-2005,0.26
+Grenada,308.0,2005-2010,0.333
+Grenada,308.0,2010-2015,0.406
+Guadeloupe,312.0,1950-1955,2.34
+Guadeloupe,312.0,1955-1960,3.066
+Guadeloupe,312.0,1960-1965,1.739
+Guadeloupe,312.0,1965-1970,1.237
+Guadeloupe,312.0,1970-1975,0.507
+Guadeloupe,312.0,1975-1980,0.195
+Guadeloupe,312.0,1980-1985,1.62
+Guadeloupe,312.0,1985-1990,1.672
+Guadeloupe,312.0,1990-1995,0.915
+Guadeloupe,312.0,1995-2000,1.097
+Guadeloupe,312.0,2000-2005,0.889
+Guadeloupe,312.0,2005-2010,0.267
+Guadeloupe,312.0,2010-2015,0.503
+Haiti,332.0,1950-1955,1.74
+Haiti,332.0,1955-1960,1.91
+Haiti,332.0,1960-1965,1.992
+Haiti,332.0,1965-1970,1.95
+Haiti,332.0,1970-1975,1.754
+Haiti,332.0,1975-1980,2.028
+Haiti,332.0,1980-1985,2.306
+Haiti,332.0,1985-1990,2.125
+Haiti,332.0,1990-1995,1.932
+Haiti,332.0,1995-2000,1.784
+Haiti,332.0,2000-2005,1.605
+Haiti,332.0,2005-2010,1.529
+Haiti,332.0,2010-2015,1.375
+Jamaica,388.0,1950-1955,1.898
+Jamaica,388.0,1955-1960,1.114
+Jamaica,388.0,1960-1965,1.562
+Jamaica,388.0,1965-1970,1.209
+Jamaica,388.0,1970-1975,1.486
+Jamaica,388.0,1975-1980,1.198
+Jamaica,388.0,1980-1985,1.526
+Jamaica,388.0,1985-1990,0.626
+Jamaica,388.0,1990-1995,0.851
+Jamaica,388.0,1995-2000,0.869
+Jamaica,388.0,2000-2005,0.59
+Jamaica,388.0,2005-2010,0.468
+Jamaica,388.0,2010-2015,0.376
+Martinique,474.0,1950-1955,2.027
+Martinique,474.0,1955-1960,2.731
+Martinique,474.0,1960-1965,1.993
+Martinique,474.0,1965-1970,0.873
+Martinique,474.0,1970-1975,0.173
+Martinique,474.0,1975-1980,-0.146
+Martinique,474.0,1980-1985,0.867
+Martinique,474.0,1985-1990,1.064
+Martinique,474.0,1990-1995,0.565
+Martinique,474.0,1995-2000,0.968
+Martinique,474.0,2000-2005,0.512
+Martinique,474.0,2005-2010,-0.12
+Martinique,474.0,2010-2015,0.088
+Montserrat,500.0,1950-1955,1.116
+Montserrat,500.0,1955-1960,-3.334
+Montserrat,500.0,1960-1965,-0.434
+Montserrat,500.0,1965-1970,-0.363
+Montserrat,500.0,1970-1975,0.258
+Montserrat,500.0,1975-1980,0.235
+Montserrat,500.0,1980-1985,-1.022
+Montserrat,500.0,1985-1990,-1.072
+Montserrat,500.0,1990-1995,-0.958
+Montserrat,500.0,1995-2000,-14.498
+Montserrat,500.0,2000-2005,-0.736
+Montserrat,500.0,2005-2010,0.724
+Montserrat,500.0,2010-2015,0.683
+Puerto Rico,630.0,1950-1955,0.263
+Puerto Rico,630.0,1955-1960,0.94
+Puerto Rico,630.0,1960-1965,1.801
+Puerto Rico,630.0,1965-1970,1.001
+Puerto Rico,630.0,1970-1975,1.576
+Puerto Rico,630.0,1975-1980,1.673
+Puerto Rico,630.0,1980-1985,1.111
+Puerto Rico,630.0,1985-1990,0.861
+Puerto Rico,630.0,1990-1995,0.953
+Puerto Rico,630.0,1995-2000,0.573
+Puerto Rico,630.0,2000-2005,-0.19
+Puerto Rico,630.0,2005-2010,-0.276
+Puerto Rico,630.0,2010-2015,-0.143
+Saint Kitts and Nevis,659.0,1950-1955,1.033
+Saint Kitts and Nevis,659.0,1955-1960,1.085
+Saint Kitts and Nevis,659.0,1960-1965,-0.791
+Saint Kitts and Nevis,659.0,1965-1970,-1.842
+Saint Kitts and Nevis,659.0,1970-1975,-0.271
+Saint Kitts and Nevis,659.0,1975-1980,-0.491
+Saint Kitts and Nevis,659.0,1980-1985,-0.558
+Saint Kitts and Nevis,659.0,1985-1990,-0.572
+Saint Kitts and Nevis,659.0,1990-1995,0.982
+Saint Kitts and Nevis,659.0,1995-2000,1.202
+Saint Kitts and Nevis,659.0,2000-2005,1.519
+Saint Kitts and Nevis,659.0,2005-2010,1.267
+Saint Kitts and Nevis,659.0,2010-2015,1.194
+Saint Lucia,662.0,1950-1955,0.914
+Saint Lucia,662.0,1955-1960,0.735
+Saint Lucia,662.0,1960-1965,1.376
+Saint Lucia,662.0,1965-1970,1.569
+Saint Lucia,662.0,1970-1975,1.049
+Saint Lucia,662.0,1975-1980,1.443
+Saint Lucia,662.0,1980-1985,1.381
+Saint Lucia,662.0,1985-1990,1.78
+Saint Lucia,662.0,1990-1995,1.243
+Saint Lucia,662.0,1995-2000,1.304
+Saint Lucia,662.0,2000-2005,1.05
+Saint Lucia,662.0,2005-2010,1.4
+Saint Lucia,662.0,2010-2015,0.839
+Saint Vincent and the Grenadines,670.0,1950-1955,1.859
+Saint Vincent and the Grenadines,670.0,1955-1960,1.923
+Saint Vincent and the Grenadines,670.0,1960-1965,1.204
+Saint Vincent and the Grenadines,670.0,1965-1970,1.017
+Saint Vincent and the Grenadines,670.0,1970-1975,1.109
+Saint Vincent and the Grenadines,670.0,1975-1980,0.998
+Saint Vincent and the Grenadines,670.0,1980-1985,0.775
+Saint Vincent and the Grenadines,670.0,1985-1990,0.572
+Saint Vincent and the Grenadines,670.0,1990-1995,0.114
+Saint Vincent and the Grenadines,670.0,1995-2000,-0.042
+Saint Vincent and the Grenadines,670.0,2000-2005,0.157
+Saint Vincent and the Grenadines,670.0,2005-2010,0.104
+Saint Vincent and the Grenadines,670.0,2010-2015,0.027
+Sint Maarten (Dutch part),534.0,1950-1955,6.864
+Sint Maarten (Dutch part),534.0,1955-1960,5.9
+Sint Maarten (Dutch part),534.0,1960-1965,9.087
+Sint Maarten (Dutch part),534.0,1965-1970,8.599
+Sint Maarten (Dutch part),534.0,1970-1975,6.617
+Sint Maarten (Dutch part),534.0,1975-1980,6.312
+Sint Maarten (Dutch part),534.0,1980-1985,7.468
+Sint Maarten (Dutch part),534.0,1985-1990,8.113
+Sint Maarten (Dutch part),534.0,1990-1995,1.41
+Sint Maarten (Dutch part),534.0,1995-2000,0.762
+Sint Maarten (Dutch part),534.0,2000-2005,0.44
+Sint Maarten (Dutch part),534.0,2005-2010,0.364
+Sint Maarten (Dutch part),534.0,2010-2015,3.134
+Trinidad and Tobago,780.0,1950-1955,2.73
+Trinidad and Tobago,780.0,1955-1960,2.735
+Trinidad and Tobago,780.0,1960-1965,1.453
+Trinidad and Tobago,780.0,1965-1970,0.723
+Trinidad and Tobago,780.0,1970-1975,1.339
+Trinidad and Tobago,780.0,1975-1980,1.409
+Trinidad and Tobago,780.0,1980-1985,1.519
+Trinidad and Tobago,780.0,1985-1990,0.852
+Trinidad and Tobago,780.0,1990-1995,0.535
+Trinidad and Tobago,780.0,1995-2000,0.206
+Trinidad and Tobago,780.0,2000-2005,0.452
+Trinidad and Tobago,780.0,2005-2010,0.475
+Trinidad and Tobago,780.0,2010-2015,0.476
+Turks and Caicos Islands,796.0,1950-1955,0.59
+Turks and Caicos Islands,796.0,1955-1960,1.928
+Turks and Caicos Islands,796.0,1960-1965,-0.193
+Turks and Caicos Islands,796.0,1965-1970,-0.131
+Turks and Caicos Islands,796.0,1970-1975,3.008
+Turks and Caicos Islands,796.0,1975-1980,2.788
+Turks and Caicos Islands,796.0,1980-1985,4.665
+Turks and Caicos Islands,796.0,1985-1990,3.904
+Turks and Caicos Islands,796.0,1990-1995,5.668
+Turks and Caicos Islands,796.0,1995-2000,4.156
+Turks and Caicos Islands,796.0,2000-2005,6.747
+Turks and Caicos Islands,796.0,2005-2010,3.17
+Turks and Caicos Islands,796.0,2010-2015,2.05
+United States Virgin Islands,850.0,1950-1955,1.83
+United States Virgin Islands,850.0,1955-1960,2.112
+United States Virgin Islands,850.0,1960-1965,8.378
+United States Virgin Islands,850.0,1965-1970,5.116
+United States Virgin Islands,850.0,1970-1975,5.839
+United States Virgin Islands,850.0,1975-1980,2.747
+United States Virgin Islands,850.0,1980-1985,1.23
+United States Virgin Islands,850.0,1985-1990,-0.272
+United States Virgin Islands,850.0,1990-1995,0.716
+United States Virgin Islands,850.0,1995-2000,0.277
+United States Virgin Islands,850.0,2000-2005,-0.137
+United States Virgin Islands,850.0,2005-2010,-0.259
+United States Virgin Islands,850.0,2010-2015,-0.017
+Central America,916.0,1950-1955,2.942
+Central America,916.0,1955-1960,3.084
+Central America,916.0,1960-1965,3.086
+Central America,916.0,1965-1970,3.006
+Central America,916.0,1970-1975,3.039
+Central America,916.0,1975-1980,2.605
+Central America,916.0,1980-1985,2.248
+Central America,916.0,1985-1990,2.091
+Central America,916.0,1990-1995,2.021
+Central America,916.0,1995-2000,1.769
+Central America,916.0,2000-2005,1.42
+Central America,916.0,2005-2010,1.565
+Central America,916.0,2010-2015,1.393
+Belize,84.0,1950-1955,2.95
+Belize,84.0,1955-1960,2.842
+Belize,84.0,1960-1965,2.841
+Belize,84.0,1965-1970,2.818
+Belize,84.0,1970-1975,1.736
+Belize,84.0,1975-1980,1.571
+Belize,84.0,1980-1985,2.691
+Belize,84.0,1985-1990,2.572
+Belize,84.0,1990-1995,1.97
+Belize,84.0,1995-2000,3.562
+Belize,84.0,2000-2005,2.716
+Belize,84.0,2005-2010,2.538
+Belize,84.0,2010-2015,2.216
+Costa Rica,188.0,1950-1955,3.087
+Costa Rica,188.0,1955-1960,3.49
+Costa Rica,188.0,1960-1965,3.521
+Costa Rica,188.0,1965-1970,3.022
+Costa Rica,188.0,1970-1975,2.523
+Costa Rica,188.0,1975-1980,2.606
+Costa Rica,188.0,1980-1985,2.668
+Costa Rica,188.0,1985-1990,2.514
+Costa Rica,188.0,1990-1995,2.515
+Costa Rica,188.0,1995-2000,2.232
+Costa Rica,188.0,2000-2005,1.579
+Costa Rica,188.0,2005-2010,1.354
+Costa Rica,188.0,2010-2015,1.123
+El Salvador,222.0,1950-1955,1.984
+El Salvador,222.0,1955-1960,2.573
+El Salvador,222.0,1960-1965,2.924
+El Salvador,222.0,1965-1970,2.746
+El Salvador,222.0,1970-1975,2.454
+El Salvador,222.0,1975-1980,1.974
+El Salvador,222.0,1980-1985,1.446
+El Salvador,222.0,1985-1990,1.303
+El Salvador,222.0,1990-1995,1.243
+El Salvador,222.0,1995-2000,0.783
+El Salvador,222.0,2000-2005,0.461
+El Salvador,222.0,2005-2010,0.304
+El Salvador,222.0,2010-2015,0.29
+Guatemala,320.0,1950-1955,2.776
+Guatemala,320.0,1955-1960,2.655
+Guatemala,320.0,1960-1965,2.717
+Guatemala,320.0,1965-1970,2.743
+Guatemala,320.0,1970-1975,2.799
+Guatemala,320.0,1975-1980,2.641
+Guatemala,320.0,1980-1985,2.626
+Guatemala,320.0,1985-1990,2.413
+Guatemala,320.0,1990-1995,2.46
+Guatemala,320.0,1995-2000,2.418
+Guatemala,320.0,2000-2005,2.407
+Guatemala,320.0,2005-2010,2.221
+Guatemala,320.0,2010-2015,2.075
+Honduras,340.0,1950-1955,2.874
+Honduras,340.0,1955-1960,3.074
+Honduras,340.0,1960-1965,3.224
+Honduras,340.0,1965-1970,2.69
+Honduras,340.0,1970-1975,2.877
+Honduras,340.0,1975-1980,3.139
+Honduras,340.0,1980-1985,3.062
+Honduras,340.0,1985-1990,2.919
+Honduras,340.0,1990-1995,2.625
+Honduras,340.0,1995-2000,2.206
+Honduras,340.0,2000-2005,1.943
+Honduras,340.0,2005-2010,1.735
+Honduras,340.0,2010-2015,1.467
+Mexico,484.0,1950-1955,3.036
+Mexico,484.0,1955-1960,3.154
+Mexico,484.0,1960-1965,3.122
+Mexico,484.0,1965-1970,3.071
+Mexico,484.0,1970-1975,3.139
+Mexico,484.0,1975-1980,2.602
+Mexico,484.0,1980-1985,2.182
+Mexico,484.0,1985-1990,2.036
+Mexico,484.0,1990-1995,1.961
+Mexico,484.0,1995-2000,1.701
+Mexico,484.0,2000-2005,1.306
+Mexico,484.0,2005-2010,1.554
+Mexico,484.0,2010-2015,1.368
+Nicaragua,558.0,1950-1955,3.046
+Nicaragua,558.0,1955-1960,3.257
+Nicaragua,558.0,1960-1965,3.007
+Nicaragua,558.0,1965-1970,3.014
+Nicaragua,558.0,1970-1975,3.076
+Nicaragua,558.0,1975-1980,3.003
+Nicaragua,558.0,1980-1985,2.643
+Nicaragua,558.0,1985-1990,2.22
+Nicaragua,558.0,1990-1995,2.138
+Nicaragua,558.0,1995-2000,1.721
+Nicaragua,558.0,2000-2005,1.356
+Nicaragua,558.0,2005-2010,1.29
+Nicaragua,558.0,2010-2015,1.166
+Panama,591.0,1950-1955,2.641
+Panama,591.0,1955-1960,2.879
+Panama,591.0,1960-1965,2.975
+Panama,591.0,1965-1970,2.894
+Panama,591.0,1970-1975,2.773
+Panama,591.0,1975-1980,2.51
+Panama,591.0,1980-1985,2.296
+Panama,591.0,1985-1990,2.149
+Panama,591.0,1990-1995,2.053
+Panama,591.0,1995-2000,2.018
+Panama,591.0,2000-2005,1.832
+Panama,591.0,2005-2010,1.737
+Panama,591.0,2010-2015,1.636
+South America,931.0,1950-1955,2.727
+South America,931.0,1955-1960,2.683
+South America,931.0,1960-1965,2.723
+South America,931.0,1965-1970,2.493
+South America,931.0,1970-1975,2.298
+South America,931.0,1975-1980,2.248
+South America,931.0,1980-1985,2.16
+South America,931.0,1985-1990,1.923
+South America,931.0,1990-1995,1.677
+South America,931.0,1995-2000,1.537
+South America,931.0,2000-2005,1.381
+South America,931.0,2005-2010,1.155
+South America,931.0,2010-2015,1.048
+Argentina,32.0,1950-1955,1.974
+Argentina,32.0,1955-1960,1.71
+Argentina,32.0,1960-1965,1.552
+Argentina,32.0,1965-1970,1.462
+Argentina,32.0,1970-1975,1.675
+Argentina,32.0,1975-1980,1.506
+Argentina,32.0,1980-1985,1.562
+Argentina,32.0,1985-1990,1.484
+Argentina,32.0,1990-1995,1.338
+Argentina,32.0,1995-2000,1.145
+Argentina,32.0,2000-2005,1.096
+Argentina,32.0,2005-2010,1.034
+Argentina,32.0,2010-2015,1.037
+Bolivia (Plurinational State of),68.0,1950-1955,1.71
+Bolivia (Plurinational State of),68.0,1955-1960,1.861
+Bolivia (Plurinational State of),68.0,1960-1965,1.945
+Bolivia (Plurinational State of),68.0,1965-1970,2.031
+Bolivia (Plurinational State of),68.0,1970-1975,2.119
+Bolivia (Plurinational State of),68.0,1975-1980,2.192
+Bolivia (Plurinational State of),68.0,1980-1985,2.11
+Bolivia (Plurinational State of),68.0,1985-1990,1.975
+Bolivia (Plurinational State of),68.0,1990-1995,1.972
+Bolivia (Plurinational State of),68.0,1995-2000,1.945
+Bolivia (Plurinational State of),68.0,2000-2005,1.801
+Bolivia (Plurinational State of),68.0,2005-2010,1.666
+Bolivia (Plurinational State of),68.0,2010-2015,1.563
+Brazil,76.0,1950-1955,2.983
+Brazil,76.0,1955-1960,2.917
+Brazil,76.0,1960-1965,2.977
+Brazil,76.0,1965-1970,2.636
+Brazil,76.0,1970-1975,2.439
+Brazil,76.0,1975-1980,2.391
+Brazil,76.0,1980-1985,2.263
+Brazil,76.0,1985-1990,1.889
+Brazil,76.0,1990-1995,1.58
+Brazil,76.0,1995-2000,1.54
+Brazil,76.0,2000-2005,1.394
+Brazil,76.0,2005-2010,1.048
+Brazil,76.0,2010-2015,0.909
+Chile,152.0,1950-1955,2.215
+Chile,152.0,1955-1960,2.293
+Chile,152.0,1960-1965,2.25
+Chile,152.0,1965-1970,2.092
+Chile,152.0,1970-1975,1.72
+Chile,152.0,1975-1980,1.504
+Chile,152.0,1980-1985,1.499
+Chile,152.0,1985-1990,1.637
+Chile,152.0,1990-1995,1.541
+Chile,152.0,1995-2000,1.331
+Chile,152.0,2000-2005,1.185
+Chile,152.0,2005-2010,1.11
+Chile,152.0,2010-2015,1.068
+Colombia,170.0,1950-1955,2.842
+Colombia,170.0,1955-1960,2.943
+Colombia,170.0,1960-1965,2.997
+Colombia,170.0,1965-1970,2.836
+Colombia,170.0,1970-1975,2.306
+Colombia,170.0,1975-1980,2.274
+Colombia,170.0,1980-1985,2.231
+Colombia,170.0,1985-1990,1.999
+Colombia,170.0,1990-1995,1.77
+Colombia,170.0,1995-2000,1.523
+Colombia,170.0,2000-2005,1.378
+Colombia,170.0,2005-2010,1.181
+Colombia,170.0,2010-2015,0.982
+Ecuador,218.0,1950-1955,2.628
+Ecuador,218.0,1955-1960,2.771
+Ecuador,218.0,1960-1965,2.882
+Ecuador,218.0,1965-1970,2.91
+Ecuador,218.0,1970-1975,2.807
+Ecuador,218.0,1975-1980,2.648
+Ecuador,218.0,1980-1985,2.517
+Ecuador,218.0,1985-1990,2.437
+Ecuador,218.0,1990-1995,2.26
+Ecuador,218.0,1995-2000,1.976
+Ecuador,218.0,2000-2005,1.68
+Ecuador,218.0,2005-2010,1.674
+Ecuador,218.0,2010-2015,1.558
+Falkland Islands (Malvinas),238.0,1950-1955,-0.529
+Falkland Islands (Malvinas),238.0,1955-1960,-0.534
+Falkland Islands (Malvinas),238.0,1960-1965,-0.664
+Falkland Islands (Malvinas),238.0,1965-1970,-0.817
+Falkland Islands (Malvinas),238.0,1970-1975,-0.758
+Falkland Islands (Malvinas),238.0,1975-1980,-0.647
+Falkland Islands (Malvinas),238.0,1980-1985,0.0
+Falkland Islands (Malvinas),238.0,1985-1990,1.424
+Falkland Islands (Malvinas),238.0,1990-1995,4.039
+Falkland Islands (Malvinas),238.0,1995-2000,3.331
+Falkland Islands (Malvinas),238.0,2000-2005,0.419
+Falkland Islands (Malvinas),238.0,2005-2010,-0.593
+Falkland Islands (Malvinas),238.0,2010-2015,0.326
+French Guiana,254.0,1950-1955,2.238
+French Guiana,254.0,1955-1960,2.341
+French Guiana,254.0,1960-1965,3.882
+French Guiana,254.0,1965-1970,4.176
+French Guiana,254.0,1970-1975,3.191
+French Guiana,254.0,1975-1980,3.501
+French Guiana,254.0,1980-1985,5.103
+French Guiana,254.0,1985-1990,5.845
+French Guiana,254.0,1990-1995,3.424
+French Guiana,254.0,1995-2000,3.437
+French Guiana,254.0,2000-2005,4.418
+French Guiana,254.0,2005-2010,2.776
+French Guiana,254.0,2010-2015,2.776
+Guyana,328.0,1950-1955,3.53
+Guyana,328.0,1955-1960,3.024
+Guyana,328.0,1960-1965,2.842
+Guyana,328.0,1965-1970,1.343
+Guyana,328.0,1970-1975,1.243
+Guyana,328.0,1975-1980,1.217
+Guyana,328.0,1980-1985,-0.556
+Guyana,328.0,1985-1990,-1.206
+Guyana,328.0,1990-1995,0.177
+Guyana,328.0,1995-2000,0.423
+Guyana,328.0,2000-2005,0.007
+Guyana,328.0,2005-2010,0.291
+Guyana,328.0,2010-2015,0.361
+Paraguay,600.0,1950-1955,2.543
+Paraguay,600.0,1955-1960,2.575
+Paraguay,600.0,1960-1965,2.635
+Paraguay,600.0,1965-1970,2.615
+Paraguay,600.0,1970-1975,2.41
+Paraguay,600.0,1975-1980,2.614
+Paraguay,600.0,1980-1985,2.872
+Paraguay,600.0,1985-1990,2.753
+Paraguay,600.0,1990-1995,2.442
+Paraguay,600.0,1995-2000,2.156
+Paraguay,600.0,2000-2005,1.777
+Paraguay,600.0,2005-2010,1.381
+Paraguay,600.0,2010-2015,1.337
+Peru,604.0,1950-1955,2.569
+Peru,604.0,1955-1960,2.709
+Peru,604.0,1960-1965,2.859
+Peru,604.0,1965-1970,2.784
+Peru,604.0,1970-1975,2.648
+Peru,604.0,1975-1980,2.617
+Peru,604.0,1980-1985,2.372
+Peru,604.0,1985-1990,2.208
+Peru,604.0,1990-1995,1.931
+Peru,604.0,1995-2000,1.503
+Peru,604.0,2000-2005,1.268
+Peru,604.0,2005-2010,1.238
+Peru,604.0,2010-2015,1.319
+Suriname,740.0,1950-1955,3.024
+Suriname,740.0,1955-1960,2.959
+Suriname,740.0,1960-1965,2.695
+Suriname,740.0,1965-1970,2.248
+Suriname,740.0,1970-1975,-0.47
+Suriname,740.0,1975-1980,0.007
+Suriname,740.0,1980-1985,0.474
+Suriname,740.0,1985-1990,1.89
+Suriname,740.0,1990-1995,1.76
+Suriname,740.0,1995-2000,1.508
+Suriname,740.0,2000-2005,0.463
+Suriname,740.0,2005-2010,1.035
+Suriname,740.0,2010-2015,0.936
+Uruguay,858.0,1950-1955,1.163
+Uruguay,858.0,1955-1960,1.353
+Uruguay,858.0,1960-1965,1.192
+Uruguay,858.0,1965-1970,0.838
+Uruguay,858.0,1970-1975,0.144
+Uruguay,858.0,1975-1980,0.596
+Uruguay,858.0,1980-1985,0.649
+Uruguay,858.0,1985-1990,0.641
+Uruguay,858.0,1990-1995,0.725
+Uruguay,858.0,1995-2000,0.589
+Uruguay,858.0,2000-2005,0.026
+Uruguay,858.0,2005-2010,0.291
+Uruguay,858.0,2010-2015,0.336
+Venezuela (Bolivarian Republic of),862.0,1950-1955,4.186
+Venezuela (Bolivarian Republic of),862.0,1955-1960,3.737
+Venezuela (Bolivarian Republic of),862.0,1960-1965,3.745
+Venezuela (Bolivarian Republic of),862.0,1965-1970,3.301
+Venezuela (Bolivarian Republic of),862.0,1970-1975,2.848
+Venezuela (Bolivarian Republic of),862.0,1975-1980,2.768
+Venezuela (Bolivarian Republic of),862.0,1980-1985,2.639
+Venezuela (Bolivarian Republic of),862.0,1985-1990,2.523
+Venezuela (Bolivarian Republic of),862.0,1990-1995,2.216
+Venezuela (Bolivarian Republic of),862.0,1995-2000,1.967
+Venezuela (Bolivarian Republic of),862.0,2000-2005,1.787
+Venezuela (Bolivarian Republic of),862.0,2005-2010,1.598
+Venezuela (Bolivarian Republic of),862.0,2010-2015,1.406
+NORTHERN AMERICA,905.0,1950-1955,1.674
+NORTHERN AMERICA,905.0,1955-1960,1.799
+NORTHERN AMERICA,905.0,1960-1965,1.42
+NORTHERN AMERICA,905.0,1965-1970,1.052
+NORTHERN AMERICA,905.0,1970-1975,0.946
+NORTHERN AMERICA,905.0,1975-1980,0.967
+NORTHERN AMERICA,905.0,1980-1985,0.956
+NORTHERN AMERICA,905.0,1985-1990,1.022
+NORTHERN AMERICA,905.0,1990-1995,1.046
+NORTHERN AMERICA,905.0,1995-2000,1.183
+NORTHERN AMERICA,905.0,2000-2005,0.922
+NORTHERN AMERICA,905.0,2005-2010,0.928
+NORTHERN AMERICA,905.0,2010-2015,0.781
+Bermuda,60.0,1950-1955,1.795
+Bermuda,60.0,1955-1960,1.957
+Bermuda,60.0,1960-1965,1.812
+Bermuda,60.0,1965-1970,1.212
+Bermuda,60.0,1970-1975,1.01
+Bermuda,60.0,1975-1980,0.713
+Bermuda,60.0,1980-1985,0.667
+Bermuda,60.0,1985-1990,0.67
+Bermuda,60.0,1990-1995,0.57
+Bermuda,60.0,1995-2000,0.423
+Bermuda,60.0,2000-2005,0.337
+Bermuda,60.0,2005-2010,-0.363
+Bermuda,60.0,2010-2015,-0.619
+Canada,124.0,1950-1955,2.714
+Canada,124.0,1955-1960,2.59
+Canada,124.0,1960-1965,1.899
+Canada,124.0,1965-1970,1.699
+Canada,124.0,1970-1975,1.527
+Canada,124.0,1975-1980,1.155
+Canada,124.0,1980-1985,1.058
+Canada,124.0,1985-1990,1.357
+Canada,124.0,1990-1995,1.15
+Canada,124.0,1995-2000,0.935
+Canada,124.0,2000-2005,0.988
+Canada,124.0,2005-2010,1.127
+Canada,124.0,2010-2015,1.036
+Greenland,304.0,1950-1955,2.334
+Greenland,304.0,1955-1960,3.79
+Greenland,304.0,1960-1965,3.9
+Greenland,304.0,1965-1970,3.873
+Greenland,304.0,1970-1975,1.467
+Greenland,304.0,1975-1980,0.238
+Greenland,304.0,1980-1985,1.166
+Greenland,304.0,1985-1990,0.888
+Greenland,304.0,1990-1995,0.074
+Greenland,304.0,1995-2000,0.13
+Greenland,304.0,2000-2005,0.275
+Greenland,304.0,2005-2010,-0.143
+Greenland,304.0,2010-2015,-0.128
+Saint Pierre and Miquelon,666.0,1950-1955,0.658
+Saint Pierre and Miquelon,666.0,1955-1960,0.801
+Saint Pierre and Miquelon,666.0,1960-1965,0.703
+Saint Pierre and Miquelon,666.0,1965-1970,1.373
+Saint Pierre and Miquelon,666.0,1970-1975,1.503
+Saint Pierre and Miquelon,666.0,1975-1980,0.391
+Saint Pierre and Miquelon,666.0,1980-1985,0.357
+Saint Pierre and Miquelon,666.0,1985-1990,0.556
+Saint Pierre and Miquelon,666.0,1990-1995,0.07
+Saint Pierre and Miquelon,666.0,1995-2000,-0.095
+Saint Pierre and Miquelon,666.0,2000-2005,-0.038
+Saint Pierre and Miquelon,666.0,2005-2010,0.048
+Saint Pierre and Miquelon,666.0,2010-2015,0.045
+United States of America,840.0,1950-1955,1.581
+United States of America,840.0,1955-1960,1.724
+United States of America,840.0,1960-1965,1.373
+United States of America,840.0,1965-1970,0.987
+United States of America,840.0,1970-1975,0.885
+United States of America,840.0,1975-1980,0.948
+United States of America,840.0,1980-1985,0.945
+United States of America,840.0,1985-1990,0.985
+United States of America,840.0,1990-1995,1.035
+United States of America,840.0,1995-2000,1.211
+United States of America,840.0,2000-2005,0.915
+United States of America,840.0,2005-2010,0.907
+United States of America,840.0,2010-2015,0.754
+OCEANIA,909.0,1950-1955,2.226
+OCEANIA,909.0,1955-1960,2.15
+OCEANIA,909.0,1960-1965,2.067
+OCEANIA,909.0,1965-1970,2.354
+OCEANIA,909.0,1970-1975,1.759
+OCEANIA,909.0,1975-1980,1.326
+OCEANIA,909.0,1980-1985,1.59
+OCEANIA,909.0,1985-1990,1.619
+OCEANIA,909.0,1990-1995,1.488
+OCEANIA,909.0,1995-2000,1.34
+OCEANIA,909.0,2000-2005,1.43
+OCEANIA,909.0,2005-2010,1.744
+OCEANIA,909.0,2010-2015,1.543
+Australia/New Zealand,927.0,1950-1955,2.361
+Australia/New Zealand,927.0,1955-1960,2.194
+Australia/New Zealand,927.0,1960-1965,2.0
+Australia/New Zealand,927.0,1965-1970,2.329
+Australia/New Zealand,927.0,1970-1975,1.531
+Australia/New Zealand,927.0,1975-1980,1.01
+Australia/New Zealand,927.0,1980-1985,1.305
+Australia/New Zealand,927.0,1985-1990,1.452
+Australia/New Zealand,927.0,1990-1995,1.235
+Australia/New Zealand,927.0,1995-2000,1.042
+Australia/New Zealand,927.0,2000-2005,1.219
+Australia/New Zealand,927.0,2005-2010,1.668
+Australia/New Zealand,927.0,2010-2015,1.429
+Australia,36.0,1950-1955,2.385
+Australia,36.0,1955-1960,2.216
+Australia,36.0,1960-1965,1.988
+Australia,36.0,1965-1970,2.536
+Australia,36.0,1970-1975,1.475
+Australia,36.0,1975-1980,1.141
+Australia,36.0,1980-1985,1.421
+Australia,36.0,1985-1990,1.589
+Australia,36.0,1990-1995,1.168
+Australia,36.0,1995-2000,1.056
+Australia,36.0,2000-2005,1.186
+Australia,36.0,2005-2010,1.781
+Australia,36.0,2010-2015,1.567
+New Zealand,554.0,1950-1955,2.258
+New Zealand,554.0,1955-1960,2.096
+New Zealand,554.0,1960-1965,2.05
+New Zealand,554.0,1965-1970,1.407
+New Zealand,554.0,1970-1975,1.786
+New Zealand,554.0,1975-1980,0.41
+New Zealand,554.0,1980-1985,0.757
+New Zealand,554.0,1985-1990,0.776
+New Zealand,554.0,1990-1995,1.569
+New Zealand,554.0,1995-2000,0.974
+New Zealand,554.0,2000-2005,1.384
+New Zealand,554.0,2005-2010,1.103
+New Zealand,554.0,2010-2015,0.717
+Melanesia,928.0,1950-1955,1.587
+Melanesia,928.0,1955-1960,1.911
+Melanesia,928.0,1960-1965,2.218
+Melanesia,928.0,1965-1970,2.433
+Melanesia,928.0,1970-1975,2.826
+Melanesia,928.0,1975-1980,2.611
+Melanesia,928.0,1980-1985,2.612
+Melanesia,928.0,1985-1990,2.18
+Melanesia,928.0,1990-1995,2.373
+Melanesia,928.0,1995-2000,2.38
+Melanesia,928.0,2000-2005,2.226
+Melanesia,928.0,2005-2010,2.18
+Melanesia,928.0,2010-2015,1.979
+Fiji,242.0,1950-1955,2.953
+Fiji,242.0,1955-1960,3.214
+Fiji,242.0,1960-1965,3.297
+Fiji,242.0,1965-1970,2.304
+Fiji,242.0,1970-1975,2.046
+Fiji,242.0,1975-1980,1.938
+Fiji,242.0,1980-1985,2.272
+Fiji,242.0,1985-1990,0.471
+Fiji,242.0,1990-1995,1.247
+Fiji,242.0,1995-2000,0.901
+Fiji,242.0,2000-2005,0.26
+Fiji,242.0,2005-2010,0.907
+Fiji,242.0,2010-2015,0.735
+New Caledonia,540.0,1950-1955,0.883
+New Caledonia,540.0,1955-1960,2.833
+New Caledonia,540.0,1960-1965,3.111
+New Caledonia,540.0,1965-1970,2.824
+New Caledonia,540.0,1970-1975,3.99
+New Caledonia,540.0,1975-1980,2.023
+New Caledonia,540.0,1980-1985,1.632
+New Caledonia,540.0,1985-1990,1.813
+New Caledonia,540.0,1990-1995,2.313
+New Caledonia,540.0,1995-2000,2.086
+New Caledonia,540.0,2000-2005,1.705
+New Caledonia,540.0,2005-2010,1.488
+New Caledonia,540.0,2010-2015,1.317
+Papua New Guinea,598.0,1950-1955,1.284
+Papua New Guinea,598.0,1955-1960,1.537
+Papua New Guinea,598.0,1960-1965,1.883
+Papua New Guinea,598.0,1965-1970,2.385
+Papua New Guinea,598.0,1970-1975,2.865
+Papua New Guinea,598.0,1975-1980,2.698
+Papua New Guinea,598.0,1980-1985,2.687
+Papua New Guinea,598.0,1985-1990,2.454
+Papua New Guinea,598.0,1990-1995,2.519
+Papua New Guinea,598.0,1995-2000,2.613
+Papua New Guinea,598.0,2000-2005,2.491
+Papua New Guinea,598.0,2005-2010,2.355
+Papua New Guinea,598.0,2010-2015,2.136
+Solomon Islands,90.0,1950-1955,2.555
+Solomon Islands,90.0,1955-1960,2.887
+Solomon Islands,90.0,1960-1965,2.986
+Solomon Islands,90.0,1965-1970,3.163
+Solomon Islands,90.0,1970-1975,3.76
+Solomon Islands,90.0,1975-1980,3.515
+Solomon Islands,90.0,1980-1985,3.213
+Solomon Islands,90.0,1985-1990,2.822
+Solomon Islands,90.0,1990-1995,2.829
+Solomon Islands,90.0,1995-2000,2.757
+Solomon Islands,90.0,2000-2005,2.588
+Solomon Islands,90.0,2005-2010,2.288
+Solomon Islands,90.0,2010-2015,2.071
+Vanuatu,548.0,1950-1955,2.822
+Vanuatu,548.0,1955-1960,2.965
+Vanuatu,548.0,1960-1965,3.075
+Vanuatu,548.0,1965-1970,2.785
+Vanuatu,548.0,1970-1975,3.135
+Vanuatu,548.0,1975-1980,2.929
+Vanuatu,548.0,1980-1985,2.346
+Vanuatu,548.0,1985-1990,2.404
+Vanuatu,548.0,1990-1995,2.749
+Vanuatu,548.0,1995-2000,1.906
+Vanuatu,548.0,2000-2005,2.469
+Vanuatu,548.0,2005-2010,2.419
+Vanuatu,548.0,2010-2015,2.266
+Micronesia,954.0,1950-1955,1.946
+Micronesia,954.0,1955-1960,2.252
+Micronesia,954.0,1960-1965,2.655
+Micronesia,954.0,1965-1970,2.54
+Micronesia,954.0,1970-1975,1.83
+Micronesia,954.0,1975-1980,2.221
+Micronesia,954.0,1980-1985,3.22
+Micronesia,954.0,1985-1990,3.009
+Micronesia,954.0,1990-1995,2.357
+Micronesia,954.0,1995-2000,1.261
+Micronesia,954.0,2000-2005,0.256
+Micronesia,954.0,2005-2010,-0.035
+Micronesia,954.0,2010-2015,0.928
+Guam,316.0,1950-1955,0.98
+Guam,316.0,1955-1960,1.267
+Guam,316.0,1960-1965,2.287
+Guam,316.0,1965-1970,2.284
+Guam,316.0,1970-1975,2.14
+Guam,316.0,1975-1980,2.185
+Guam,316.0,1980-1985,2.258
+Guam,316.0,1985-1990,2.254
+Guam,316.0,1990-1995,2.187
+Guam,316.0,1995-2000,1.299
+Guam,316.0,2000-2005,0.392
+Guam,316.0,2005-2010,0.131
+Guam,316.0,2010-2015,1.269
+Kiribati,296.0,1950-1955,2.039
+Kiribati,296.0,1955-1960,2.386
+Kiribati,296.0,1960-1965,2.384
+Kiribati,296.0,1965-1970,1.938
+Kiribati,296.0,1970-1975,1.501
+Kiribati,296.0,1975-1980,1.458
+Kiribati,296.0,1980-1985,1.514
+Kiribati,296.0,1985-1990,2.468
+Kiribati,296.0,1990-1995,1.417
+Kiribati,296.0,1995-2000,1.649
+Kiribati,296.0,2000-2005,1.794
+Kiribati,296.0,2005-2010,2.119
+Kiribati,296.0,2010-2015,1.819
+Marshall Islands,584.0,1950-1955,1.337
+Marshall Islands,584.0,1955-1960,1.073
+Marshall Islands,584.0,1960-1965,3.285
+Marshall Islands,584.0,1965-1970,3.313
+Marshall Islands,584.0,1970-1975,4.528
+Marshall Islands,584.0,1975-1980,3.571
+Marshall Islands,584.0,1980-1985,4.519
+Marshall Islands,584.0,1985-1990,4.203
+Marshall Islands,584.0,1990-1995,1.514
+Marshall Islands,584.0,1995-2000,0.442
+Marshall Islands,584.0,2000-2005,-0.04
+Marshall Islands,584.0,2005-2010,0.142
+Marshall Islands,584.0,2010-2015,0.214
+Micronesia (Fed. States of),583.0,1950-1955,3.382
+Micronesia (Fed. States of),583.0,1955-1960,3.23
+Micronesia (Fed. States of),583.0,1960-1965,3.189
+Micronesia (Fed. States of),583.0,1965-1970,3.243
+Micronesia (Fed. States of),583.0,1970-1975,0.55
+Micronesia (Fed. States of),583.0,1975-1980,2.891
+Micronesia (Fed. States of),583.0,1980-1985,3.214
+Micronesia (Fed. States of),583.0,1985-1990,2.341
+Micronesia (Fed. States of),583.0,1990-1995,2.204
+Micronesia (Fed. States of),583.0,1995-2000,-0.023
+Micronesia (Fed. States of),583.0,2000-2005,-0.231
+Micronesia (Fed. States of),583.0,2005-2010,-0.492
+Micronesia (Fed. States of),583.0,2010-2015,0.162
+Nauru,520.0,1950-1955,4.079
+Nauru,520.0,1955-1960,4.047
+Nauru,520.0,1960-1965,5.161
+Nauru,520.0,1965-1970,2.472
+Nauru,520.0,1970-1975,1.703
+Nauru,520.0,1975-1980,1.149
+Nauru,520.0,1980-1985,1.753
+Nauru,520.0,1985-1990,2.271
+Nauru,520.0,1990-1995,1.701
+Nauru,520.0,1995-2000,0.144
+Nauru,520.0,2000-2005,0.145
+Nauru,520.0,2005-2010,-0.179
+Nauru,520.0,2010-2015,0.389
+Northern Mariana Islands,580.0,1950-1955,2.738
+Northern Mariana Islands,580.0,1955-1960,4.537
+Northern Mariana Islands,580.0,1960-1965,2.05
+Northern Mariana Islands,580.0,1965-1970,3.368
+Northern Mariana Islands,580.0,1970-1975,2.859
+Northern Mariana Islands,580.0,1975-1980,2.253
+Northern Mariana Islands,580.0,1980-1985,11.529
+Northern Mariana Islands,580.0,1985-1990,7.421
+Northern Mariana Islands,580.0,1990-1995,5.371
+Northern Mariana Islands,580.0,1995-2000,3.475
+Northern Mariana Islands,580.0,2000-2005,-1.224
+Northern Mariana Islands,580.0,2005-2010,-3.566
+Northern Mariana Islands,580.0,2010-2015,0.444
+Palau,585.0,1950-1955,2.086
+Palau,585.0,1955-1960,3.088
+Palau,585.0,1960-1965,2.243
+Palau,585.0,1965-1970,1.256
+Palau,585.0,1970-1975,1.346
+Palau,585.0,1975-1980,-0.136
+Palau,585.0,1980-1985,2.321
+Palau,585.0,1985-1990,1.934
+Palau,585.0,1990-1995,2.683
+Palau,585.0,1995-2000,2.109
+Palau,585.0,2000-2005,0.75
+Palau,585.0,2005-2010,0.558
+Palau,585.0,2010-2015,0.786
+Polynesia,957.0,1950-1955,2.492
+Polynesia,957.0,1955-1960,2.329
+Polynesia,957.0,1960-1965,3.145
+Polynesia,957.0,1965-1970,2.559
+Polynesia,957.0,1970-1975,1.566
+Polynesia,957.0,1975-1980,1.378
+Polynesia,957.0,1980-1985,1.548
+Polynesia,957.0,1985-1990,1.324
+Polynesia,957.0,1990-1995,1.122
+Polynesia,957.0,1995-2000,1.108
+Polynesia,957.0,2000-2005,0.91
+Polynesia,957.0,2005-2010,0.587
+Polynesia,957.0,2010-2015,0.725
+American Samoa,16.0,1950-1955,0.796
+American Samoa,16.0,1955-1960,0.308
+American Samoa,16.0,1960-1965,3.229
+American Samoa,16.0,1965-1970,2.977
+American Samoa,16.0,1970-1975,1.847
+American Samoa,16.0,1975-1980,1.619
+American Samoa,16.0,1980-1985,3.8
+American Samoa,16.0,1985-1990,3.624
+American Samoa,16.0,1990-1995,2.337
+American Samoa,16.0,1995-2000,1.685
+American Samoa,16.0,2000-2005,0.547
+American Samoa,16.0,2005-2010,-1.214
+American Samoa,16.0,2010-2015,-0.035
+Cook Islands,184.0,1950-1955,1.647
+Cook Islands,184.0,1955-1960,2.18
+Cook Islands,184.0,1960-1965,0.763
+Cook Islands,184.0,1965-1970,2.417
+Cook Islands,184.0,1970-1975,-1.007
+Cook Islands,184.0,1975-1980,-2.882
+Cook Islands,184.0,1980-1985,0.112
+Cook Islands,184.0,1985-1990,-0.123
+Cook Islands,184.0,1990-1995,0.771
+Cook Islands,184.0,1995-2000,-0.53
+Cook Islands,184.0,2000-2005,1.691
+Cook Islands,184.0,2005-2010,0.892
+Cook Islands,184.0,2010-2015,0.534
+French Polynesia,258.0,1950-1955,2.662
+French Polynesia,258.0,1955-1960,2.517
+French Polynesia,258.0,1960-1965,3.591
+French Polynesia,258.0,1965-1970,3.353
+French Polynesia,258.0,1970-1975,3.346
+French Polynesia,258.0,1975-1980,2.993
+French Polynesia,258.0,1980-1985,2.881
+French Polynesia,258.0,1985-1990,2.483
+French Polynesia,258.0,1990-1995,1.629
+French Polynesia,258.0,1995-2000,1.952
+French Polynesia,258.0,2000-2005,1.432
+French Polynesia,258.0,2005-2010,1.008
+French Polynesia,258.0,2010-2015,1.068
+Niue,570.0,1950-1955,0.103
+Niue,570.0,1955-1960,0.58
+Niue,570.0,1960-1965,1.072
+Niue,570.0,1965-1970,0.137
+Niue,570.0,1970-1975,-5.117
+Niue,570.0,1975-1980,-3.098
+Niue,570.0,1980-1985,-4.511
+Niue,570.0,1985-1990,-3.041
+Niue,570.0,1990-1995,-1.468
+Niue,570.0,1995-2000,-2.63
+Niue,570.0,2000-2005,-2.39
+Niue,570.0,2005-2010,-0.786
+Niue,570.0,2010-2015,-0.136
+Samoa,882.0,1950-1955,2.751
+Samoa,882.0,1955-1960,2.851
+Samoa,882.0,1960-1965,3.133
+Samoa,882.0,1965-1970,2.387
+Samoa,882.0,1970-1975,1.115
+Samoa,882.0,1975-1980,0.544
+Samoa,882.0,1980-1985,0.567
+Samoa,882.0,1985-1990,0.351
+Samoa,882.0,1990-1995,0.876
+Samoa,882.0,1995-2000,0.517
+Samoa,882.0,2000-2005,0.6
+Samoa,882.0,2005-2010,0.667
+Samoa,882.0,2010-2015,0.759
+Tokelau,772.0,1950-1955,0.503
+Tokelau,772.0,1955-1960,3.026
+Tokelau,772.0,1960-1965,0.537
+Tokelau,772.0,1965-1970,-3.464
+Tokelau,772.0,1970-1975,-0.551
+Tokelau,772.0,1975-1980,-0.269
+Tokelau,772.0,1980-1985,1.961
+Tokelau,772.0,1985-1990,-1.253
+Tokelau,772.0,1990-1995,-1.138
+Tokelau,772.0,1995-2000,0.417
+Tokelau,772.0,2000-2005,-4.978
+Tokelau,772.0,2005-2010,-1.28
+Tokelau,772.0,2010-2015,1.93
+Tonga,776.0,1950-1955,3.168
+Tonga,776.0,1955-1960,2.149
+Tonga,776.0,1960-1965,3.766
+Tonga,776.0,1965-1970,2.525
+Tonga,776.0,1970-1975,0.921
+Tonga,776.0,1975-1980,1.028
+Tonga,776.0,1980-1985,0.202
+Tonga,776.0,1985-1990,0.254
+Tonga,776.0,1990-1995,0.154
+Tonga,776.0,1995-2000,0.415
+Tonga,776.0,2000-2005,0.596
+Tonga,776.0,2005-2010,0.603
+Tonga,776.0,2010-2015,0.423
+Tuvalu,798.0,1950-1955,1.477
+Tuvalu,798.0,1955-1960,1.86
+Tuvalu,798.0,1960-1965,2.215
+Tuvalu,798.0,1965-1970,1.352
+Tuvalu,798.0,1970-1975,1.039
+Tuvalu,798.0,1975-1980,0.931
+Tuvalu,798.0,1980-1985,1.431
+Tuvalu,798.0,1985-1990,0.807
+Tuvalu,798.0,1990-1995,0.489
+Tuvalu,798.0,1995-2000,0.412
+Tuvalu,798.0,2000-2005,0.576
+Tuvalu,798.0,2005-2010,0.273
+Tuvalu,798.0,2010-2015,0.18
+Wallis and Futuna Islands,876.0,1950-1955,2.146
+Wallis and Futuna Islands,876.0,1955-1960,1.877
+Wallis and Futuna Islands,876.0,1960-1965,1.487
+Wallis and Futuna Islands,876.0,1965-1970,-0.848
+Wallis and Futuna Islands,876.0,1970-1975,0.619
+Wallis and Futuna Islands,876.0,1975-1980,4.17
+Wallis and Futuna Islands,876.0,1980-1985,3.729
+Wallis and Futuna Islands,876.0,1985-1990,0.505
+Wallis and Futuna Islands,876.0,1990-1995,0.375
+Wallis and Futuna Islands,876.0,1995-2000,0.494
+Wallis and Futuna Islands,876.0,2000-2005,-0.349
+Wallis and Futuna Islands,876.0,2005-2010,-0.98
+Wallis and Futuna Islands,876.0,2010-2015,-0.62
